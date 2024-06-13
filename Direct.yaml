@@ -1,0 +1,8 @@
+payload:
+  - DOMAIN-SUFFIX,ycxdy.top
+  - DOMAIN-SUFFIX,pub1.emby.wtf
+  - DOMAIN-SUFFIX,pub2.emby.wtf
+  - DOMAIN-SUFFIX,pub3.emby.wtf
+  - IP-CIDR,115.239.83.119/32
+  - DOMAIN-SUFFIX,jxlibrary.net
+  - PROCESS-NAME,TrafficMonitor.exe
