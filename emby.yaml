@@ -1,0 +1,19 @@
+payload:
+  - IP-CIDR,167.235.116.53/32
+  - IP-CIDR,152.53.19.231/32
+  - IP-CIDR,89.58.18.111/32
+  - DOMAIN-SUFFIX,embyplus.org
+  - DOMAIN-SUFFIX,imetyou.top
+  - DOMAIN-SUFFIX,misakaf.org
+  - DOMAIN-SUFFIX,emby.aca.best
+  - DOMAIN-SUFFIX,emby.pilipiliultra.top
+  - DOMAIN-SUFFIX,emby.pilipiliultra.com
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,7777777.buzz
+  - DOMAIN-SUFFIX,581658.best
+  - DOMAIN-SUFFIX,carryz.net
+  - DOMAIN-SUFFIX,coemn.com
+  - DOMAIN-SUFFIX,lyrebirdemby.com
+  - DOMAIN-SUFFIX,misty.cx
+  - PROCESS-NAME,Emby.Theater.exe
+  - PROCESS-NAME,electron.exe
