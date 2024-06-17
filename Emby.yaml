@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,embyplus.org #cf
   - DOMAIN-SUFFIX,emby.embyplus.org
   - DOMAIN-SUFFIX,stream.9521732.xyz
+  - DOMAIN-SUFFIX,gd.9521732.xyz
 #paul
   - DOMAIN-SUFFIX,cf.imetyou.top #cf
 #TreeDiagram
