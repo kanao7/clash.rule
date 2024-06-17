@@ -36,5 +36,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.lyrebirdemby.com #cf
 #misty
   - DOMAIN-SUFFIX,misty.cx
+#embyapp
   - PROCESS-NAME,Emby.Theater.exe
   - PROCESS-NAME,electron.exe
+  - PROCESS-NAME,tsukimi.exe
