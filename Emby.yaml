@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,pub3cf.emby.wtf
 #飞跃
   - DOMAIN-SUFFIX,581658.best #cf
+  - DOMAIN-SUFFIX,123456.buzz #地平线cf
 #cc
   - DOMAIN-SUFFIX,carryz.net
   - DOMAIN-SUFFIX,coemn.com
