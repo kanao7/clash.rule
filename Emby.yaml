@@ -1,7 +1,7 @@
 payload:
-  - IP-CIDR,167.235.116.53/32
-  - IP-CIDR,152.53.19.231/32
-  - IP-CIDR,89.58.18.111/32
+  - IP-CIDR,167.235.116.53/32,no-resolve
+  - IP-CIDR,152.53.19.231/32,no-resolve
+  - IP-CIDR,89.58.18.111/32,no-resolve
 #纸片人
   - DOMAIN-SUFFIX,embyplus.org #cf
   - DOMAIN-SUFFIX,emby.embyplus.org
