@@ -1,9 +1,10 @@
 payload:
+  - IP-CIDR,104.19.62.68/32,no-resolve
   - DOMAIN-SUFFIX,kanao.me
   - DOMAIN-SUFFIX,ycxdy.top
   - DOMAIN-SUFFIX,pub1.emby.wtf
   - DOMAIN-SUFFIX,pub2.emby.wtf
   - DOMAIN-SUFFIX,pub3.emby.wtf
-  - IP-CIDR,115.239.83.119/32
+  - IP-CIDR,115.239.83.119/32,no-resolve
   - DOMAIN-SUFFIX,jxlibrary.net
   - PROCESS-NAME,TrafficMonitor.exe
