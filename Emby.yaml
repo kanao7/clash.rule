@@ -18,7 +18,6 @@ payload:
   - DOMAIN-SUFFIX,stream3.misakaf.org
   - DOMAIN-SUFFIX,stream4.misakaf.org
   - DOMAIN-SUFFIX,misakaf.org
-  - DOMAIN-SUFFIX,misakaf.workers.dev
   - DOMAIN-SUFFIX,emby-misakaf.atomlantis.cloud
 #pilipili
   - DOMAIN-SUFFIX,emby.pilipiliultra.top
