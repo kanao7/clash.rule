@@ -2,6 +2,9 @@ payload:
   - DOMAIN-SUFFIX,mikanime.tv
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,kanao.me
+  - DOMAIN-SUFFIX,kanao.social
+  - DOMAIN-SUFFIX,kanao.xyz
+  - DOMAIN-SUFFIX,kanao.tech
   - DOMAIN-SUFFIX,ycxdy.top
   - DOMAIN-SUFFIX,pub1.emby.wtf
   - DOMAIN-SUFFIX,pub2.emby.wtf
