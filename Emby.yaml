@@ -1,31 +1,31 @@
 payload:
-  - IP-CIDR,167.235.116.53/32,no-resolve
-  - IP-CIDR,152.53.19.231/32,no-resolve
-  - IP-CIDR,89.58.18.111/32,no-resolve
 #纸片人
   - DOMAIN-SUFFIX,embyplus.org #cf
-  - DOMAIN-SUFFIX,emby.embyplus.org
-  - DOMAIN-SUFFIX,stream.9521732.xyz
-  - DOMAIN-SUFFIX,gd.9521732.xyz
+#  - DOMAIN-SUFFIX,emby.embyplus.org
+  - DOMAIN-SUFFIX,9521732.xyz
+#  - DOMAIN-SUFFIX,stream.9521732.xyz
+#  - DOMAIN-SUFFIX,gd.9521732.xyz
 #paul
   - DOMAIN-SUFFIX,cf.imetyou.top #cf
 #TreeDiagram
   - DOMAIN-SUFFIX,789.123456.al #cf
 #misakaf
   - DOMAIN-SUFFIX,emby.aca.best
-  - DOMAIN-SUFFIX,stream1.misakaf.org
-  - DOMAIN-SUFFIX,stream2.misakaf.org
-  - DOMAIN-SUFFIX,stream3.misakaf.org
-  - DOMAIN-SUFFIX,stream4.misakaf.org
+#  - DOMAIN-SUFFIX,stream1.misakaf.org
+#  - DOMAIN-SUFFIX,stream2.misakaf.org
+#  - DOMAIN-SUFFIX,stream3.misakaf.org
+#  - DOMAIN-SUFFIX,stream4.misakaf.org
   - DOMAIN-SUFFIX,misakaf.org
   - DOMAIN-SUFFIX,emby-misakaf.atomlantis.cloud
 #pilipili
   - DOMAIN-SUFFIX,emby.pilipiliultra.top
   - DOMAIN-SUFFIX,emby.pilipiliultra.com #cf
+#  - DOMAIN-SUFFIX,stream_pilipili.misakaf.org
 #zdz
-  - DOMAIN-SUFFIX,pub1cf.emby.wtf #cf
-  - DOMAIN-SUFFIX,pub2cf.emby.wtf
-  - DOMAIN-SUFFIX,pub3cf.emby.wtf
+  - DOMAIN-SUFFIX,emby.wtf
+#  - DOMAIN-SUFFIX,pub1cf.emby.wtf #cf
+#  - DOMAIN-SUFFIX,pub2cf.emby.wtf
+#  - DOMAIN-SUFFIX,pub3cf.emby.wtf
 #飞跃
   - DOMAIN-SUFFIX,581658.best #cf
   - DOMAIN-SUFFIX,123456.buzz #地平线cf
