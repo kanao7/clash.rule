@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,mikanime.tv
+  - DOMAIN-SUFFIX,dandanplay.net
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,kanao.me
   - DOMAIN-SUFFIX,kanao.social
