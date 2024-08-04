@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,dandanplay.net
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,ycxdy.top
+  - DOMAIN-SUFFIX,pilifun.top
   - DOMAIN-SUFFIX,pub1.emby.wtf
   - DOMAIN-SUFFIX,pub2.emby.wtf
   - DOMAIN-SUFFIX,pub3.emby.wtf
