@@ -2,6 +2,8 @@ payload:
   - DOMAIN-SUFFIX,mikanime.tv
   - DOMAIN-SUFFIX,dandanplay.net
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,pilifun.top
+  - DOMAIN-SUFFIX,emby-kyoma.pilipiliultra.com
   - DOMAIN-SUFFIX,ycxdy.top
   - DOMAIN-SUFFIX,pilifun.top
   - DOMAIN-SUFFIX,pub1.emby.wtf
