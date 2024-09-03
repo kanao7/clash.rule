@@ -17,5 +17,6 @@ payload:
   - DOMAIN-SUFFIX,xn--6nq44r2uh9rhj7f.com
   - DOMAIN-SUFFIX,1.xn--xc3ao8r.top
   - DOMAIN-SUFFIX,machbbs.com
+  - DOMAIN-SUFFIX,ipinfo.io
   - IP-CIDR,1.1.1.1/32,no-resolve
   - IP-CIDR,8.8.8.8/32,no-resolve
