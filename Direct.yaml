@@ -9,6 +9,3 @@ payload:
   - DOMAIN-SUFFIX,pub2.emby.wtf
   - DOMAIN-SUFFIX,pub3.emby.wtf
   - DOMAIN-SUFFIX,jxlibrary.net
-  - PROCESS-NAME,TrafficMonitor.exe
-  - PROCESS-NAME,VALORANT-Win64-Shipping.exe
-  - PROCESS-NAME,无畏契约登录器.exe
