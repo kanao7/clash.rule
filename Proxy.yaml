@@ -1,4 +1,10 @@
 payload:
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing.com.cn
+  - DOMAIN-SUFFIX,copilot.microsoft.com
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chatgpt.com ###AI
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,mikanani.me
   - DOMAIN-SUFFIX,store.steampowered.com
