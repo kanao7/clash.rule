@@ -1,10 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bing.com.cn
-  - DOMAIN-SUFFIX,copilot.microsoft.com
-  - DOMAIN-SUFFIX,gemini.google.com
-  - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,chatgpt.com ###AI
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,mikanani.me
   - DOMAIN-SUFFIX,store.steampowered.com
@@ -18,7 +14,6 @@ payload:
   - DOMAIN-SUFFIX,happymh.com
   - DOMAIN-SUFFIX,query.wikidata.org
   - DOMAIN-SUFFIX,machbbs.com
-  - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,one.one.one.one
   - DOMAIN-SUFFIX,xn--6nq44r2uh9rhj7f.com
   - DOMAIN-SUFFIX,www.aca.best
