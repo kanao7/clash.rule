@@ -40,3 +40,6 @@ payload:
   - PROCESS-NAME,Emby.Theater.exe
   - PROCESS-NAME,electron.exe
   - PROCESS-NAME,tsukimi.exe
+  - PROCESS-NAME,com.hush.yamby
+  - PROCESS-NAME,com.mb.android
+  - PROCESS-NAME,com.themby.themby
