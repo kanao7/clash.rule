@@ -9,3 +9,13 @@ payload:
   - DOMAIN-SUFFIX,pub2.emby.wtf
   - DOMAIN-SUFFIX,pub3.emby.wtf
   - DOMAIN-SUFFIX,jxlibrary.net
+#Windows进程名
+#  - PROCESS-NAME-REGEX,.*wechat.*\.exe
+  - PROCESS-NAME,QQ.exe
+  - PROCESS-NAME,WeChat.exe
+  - PROCESS-NAME,WeChatAppEx.exe
+  - PROCESS-NAME,aclos-launcher.exe
+  - PROCESS-NAME,无畏契约登录器.exe
+  - PROCESS-NAME,ACE-Tray.exe
+  - PROCESS-NAME,VALORANT.exe
+  - PROCESS-NAME,VALORANT-Win64-Shipping.exe
