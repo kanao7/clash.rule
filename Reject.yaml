@@ -1,4 +1,8 @@
 payload:
+  - PROCESS-NAME,com.sohu.inputmethod.sogou.meizu
+  - PROCESS-NAME,com.sohu.inputmethod.sogou.samsung
+  - PROCESS-NAME,com.sohu.inputmethod.sogou.xiaomi
+  - PROCESS-NAME,com.huawei.ohos.inputmethod
   - DOMAIN-SUFFIX,szbdyd.com
   - DOMAIN-SUFFIX,mcdn.bilivideo.cn
   - DOMAIN-SUFFIX,gjfzpt.cn
