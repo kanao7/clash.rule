@@ -36,8 +36,6 @@ payload:
   - PROCESS-NAME,com.maimemo.android.momo
   - PROCESS-NAME,com.xunmeng.pinduoduo
   - PROCESS-NAME,cn.gov.pbc.dcep
-  - PROCESS-NAME,com.sohu.inputmethod.sogou.meizu
-  - PROCESS-NAME,com.sohu.inputmethod.sogou.samsung
   - PROCESS-NAME,com.taobao.taobao
   - PROCESS-NAME,com.cn21.ecloud
   - PROCESS-NAME,com.huanchengfly.tieba.post
