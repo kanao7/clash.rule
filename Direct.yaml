@@ -9,7 +9,7 @@ payload:
   - DOMAIN-SUFFIX,pub2.emby.wtf
   - DOMAIN-SUFFIX,pub3.emby.wtf
   - DOMAIN-SUFFIX,jxlibrary.net
-#Windows进程名
+#Windows app
 #  - PROCESS-NAME-REGEX,.*wechat.*\.exe
   - PROCESS-NAME,QQ.exe
   - PROCESS-NAME,WeChat.exe
@@ -19,3 +19,89 @@ payload:
   - PROCESS-NAME,ACE-Tray.exe
   - PROCESS-NAME,VALORANT.exe
   - PROCESS-NAME,VALORANT-Win64-Shipping.exe
+#安卓 app
+  - PROCESS-NAME,com.alicloud.databox
+  - PROCESS-NAME,com.baidu.BaiduMap
+  - PROCESS-NAME,com.baidu.netdisk
+  - PROCESS-NAME,tv.danmaku.bili
+  - PROCESS-NAME,com.mystyle.purelive
+  - PROCESS-NAME,com.ss.android.ugc.aweme
+  - PROCESS-NAME,com.heytap.headset
+  - PROCESS-NAME,com.jxnxs.mobile.bank
+  - PROCESS-NAME,com.tmri.app.main
+  - PROCESS-NAME,com.jingdong.app.mall
+  - PROCESS-NAME,com.coolapk.market
+  - PROCESS-NAME,com.midea.ai.appliances
+  - PROCESS-NAME,com.xiaomi.smarthome
+  - PROCESS-NAME,com.maimemo.android.momo
+  - PROCESS-NAME,com.xunmeng.pinduoduo
+  - PROCESS-NAME,cn.gov.pbc.dcep
+  - PROCESS-NAME,com.sohu.inputmethod.sogou.meizu
+  - PROCESS-NAME,com.sohu.inputmethod.sogou.samsung
+  - PROCESS-NAME,com.taobao.taobao
+  - PROCESS-NAME,com.cn21.ecloud
+  - PROCESS-NAME,com.huanchengfly.tieba.post
+  - PROCESS-NAME,com.MobileTicket
+  - PROCESS-NAME,com.sgcc.wsgw.cn
+  - PROCESS-NAME,com.tencent.mm
+  - PROCESS-NAME,com.taobao.idlefish
+  - PROCESS-NAME,com.xiaomi.router
+  - PROCESS-NAME,com.idaodan.clean.master
+  - PROCESS-NAME,com.xunlei.downloadprovider
+  - PROCESS-NAME,com.unionpay
+  - PROCESS-NAME,cmb.pb
+  - PROCESS-NAME,com.eg.android.AlipayGphone
+  - PROCESS-NAME,com.zhihu.android
+  - PROCESS-NAME,com.ct.client
+  - PROCESS-NAME,com.chinamworld.main
+  - PROCESS-NAME,com.sinovatech.unicom.ui
+  - PROCESS-NAME,com.chinamworld.bocmbci
+  - PROCESS-NAME,com.zhumaonline.exercise
+  - PROCESS-NAME,com.example.c001apk
+  - PROCESS-NAME,com.example.c001apk.compose
+  - PROCESS-NAME,com.example.c001apk.flutter
+  - PROCESS-NAME,com.delphicoder.flud.paid
+  - PROCESS-NAME,bin.mt.plus
+  - PROCESS-NAME,com.paypal.android.p2pmobile
+  - PROCESS-NAME,com.tencent.mobileqq
+  - PROCESS-NAME,com.tencent.androidqqmail
+  - PROCESS-NAME,com.xingin.xhs
+  - PROCESS-NAME,com.hengye.share
+  - PROCESS-NAME,com.xycz.simple_live
+  - PROCESS-NAME,cn.wps.moffice_eng
+#系统 app
+  - PROCESS-NAME,com.huawei.android.thememanager
+  - PROCESS-NAME,com.android.gallery3d
+  - PROCESS-NAME,com.huawei.android.totemweather
+  - PROCESS-NAME,com.huawei.vassistant
+  - PROCESS-NAME,com.huawei.scanner
+  - PROCESS-NAME,com.huawei.appmarket
+  - PROCESS-NAME,com.huawei.hwid
+  - PROCESS-NAME,com.huawei.systemmanager
+  - PROCESS-NAME,com.huawei.hidisk
+  - PROCESS-NAME,com.huawei.filemanager
+  - PROCESS-NAME,com.huawei.camera
+  - PROCESS-NAME,com.android.mms
+  - PROCESS-NAME,com.huawei.hitouch
+  - PROCESS-NAME,com.huawei.android.hwouc
+  - PROCESS-NAME,com.android.contacts
+  - PROCESS-NAME,com.android.email
+  - PROCESS-NAME,com.huawei.security.privacycenter
+  - PROCESS-NAME,com.huawei.hbm
+  - PROCESS-NAME,com.huawei.searchservice
+  - PROCESS-NAME,com.huawei.localBackup
+  - PROCESS-NAME,com.hicloud.android.clone
+  - PROCESS-NAME,com.android.deskclock
+  - PROCESS-NAME,com.huawei.parentcontrol
+  - PROCESS-NAME,com.huawei.android.launcher
+  - PROCESS-NAME,com.android.calendar
+  - PROCESS-NAME,com.example.android.notepad
+  - PROCESS-NAME,com.huawei.pcassistant
+  - PROCESS-NAME,com.huawei.android.findmyphone
+  - PROCESS-NAME,com.huawei.android.pushagent
+  - PROCESS-NAME,com.huawei.android.instantshare
+  - PROCESS-NAME,com.android.packageinstaller
+  - PROCESS-NAME,com.huawei.distributedpasteboard
+  - PROCESS-NAME,com.huawei.hicloud
+  - PROCESS-NAME,com.huawei.contacts.sync
+  - PROCESS-NAME-REGEX,com\.huawei\..*
