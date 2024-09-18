@@ -1,9 +1,9 @@
 payload:
 #输入法
-  - PROCESS-NAME,com.sohu.inputmethod.sogou.meizu
-  - PROCESS-NAME,com.sohu.inputmethod.sogou.samsung
-  - PROCESS-NAME,com.sohu.inputmethod.sogou.xiaomi
-  - PROCESS-NAME,com.huawei.ohos.inputmethod
+#  - PROCESS-NAME,com.sohu.inputmethod.sogou.meizu
+#  - PROCESS-NAME,com.sohu.inputmethod.sogou.samsung
+#  - PROCESS-NAME,com.sohu.inputmethod.sogou.xiaomi
+#  - PROCESS-NAME,com.huawei.ohos.inputmethod
 #PCDN_noodssek
   - DOMAIN-SUFFIX,szbdyd.com
   - DOMAIN-SUFFIX,mcdn.bilivideo.cn
