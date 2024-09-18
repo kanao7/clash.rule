@@ -4,6 +4,19 @@ payload:
 #  - PROCESS-NAME,com.sohu.inputmethod.sogou.samsung
 #  - PROCESS-NAME,com.sohu.inputmethod.sogou.xiaomi
 #  - PROCESS-NAME,com.huawei.ohos.inputmethod
+# Ads - Coolapk
+  - DOMAIN-SUFFIX,ctobsnssdk.com
+  - DOMAIN-SUFFIX,pangolin.snssdk.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+  - DOMAIN-REGEX,.*\.pangolin-sdk-toutiao.*\.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
+  - DOMAIN-SUFFIX,aaid.umeng.com
+  - DOMAIN-REGEX,tnc.*\.zijieapi\.com
+  - DOMAIN-SUFFIX,mssdk-bu.bytedance.com
+  - DOMAIN-REGEX,adx-.*\.anythinktech\.com
+  - DOMAIN-SUFFIX,telecome.cn
+  - DOMAIN-SUFFIX,unioncom.cc
 #PCDN_noodssek
   - DOMAIN-SUFFIX,szbdyd.com
   - DOMAIN-SUFFIX,mcdn.bilivideo.cn
