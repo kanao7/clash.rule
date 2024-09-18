@@ -1,3 +1,4 @@
+payload:
 #Windows_App
   - PROCESS-NAME,QQ.exe
   - PROCESS-NAME,WeChat.exe
