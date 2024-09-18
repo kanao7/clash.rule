@@ -1,0 +1,87 @@
+#Windows_App
+  - PROCESS-NAME,QQ.exe
+  - PROCESS-NAME,WeChat.exe
+  - PROCESS-NAME,WeChatAppEx.exe
+#  - PROCESS-NAME-REGEX,.*wechat.*\.exe
+  - PROCESS-NAME,aclos-launcher.exe
+  - PROCESS-NAME,无畏契约登录器.exe
+  - PROCESS-NAME,ACE-Tray.exe
+  - PROCESS-NAME,VALORANT.exe
+  - PROCESS-NAME,VALORANT-Win64-Shipping.exe
+
+#Android_APP
+  - PROCESS-NAME,bin.mt.plus #mt管理器
+  - PROCESS-NAME,cmb.pb #招商银行
+  - PROCESS-NAME,cn.gov.pbc.dcep #数字人民币
+  - PROCESS-NAME,cn.wps.moffice_eng #WPS国际版
+  - PROCESS-NAME,com.alicloud.databox #阿里云盘
+  - PROCESS-NAME,com.baidu.BaiduMap #百度地图
+  - PROCESS-NAME,com.baidu.netdisk #百度网盘
+  - PROCESS-NAME,com.chinamworld.bocmbci #中国银行
+  - PROCESS-NAME,com.chinamworld.main #中国建设银行
+  - PROCESS-NAME,com.cn21.ecloud #天翼云盘
+  - PROCESS-NAME,com.coolapk.market #酷安
+  - PROCESS-NAME,com.ct.client #中国电信
+  - PROCESS-NAME,com.delphicoder.flud.paid #Flud+
+  - PROCESS-NAME,com.eg.android.AlipayGphone #支付宝
+  - PROCESS-NAME,com.example.c001apk
+  - PROCESS-NAME,com.example.c001apk.compose
+  - PROCESS-NAME,com.example.c001apk.flutter
+  - PROCESS-NAME,com.fenbi.android.servant #粉笔
+  - PROCESS-NAME,com.hengye.share #Share
+  - PROCESS-NAME,com.heytap.headset #欢律
+  - PROCESS-NAME,com.huanchengfly.tieba.post #贴吧Lite
+  - PROCESS-NAME,com.idaodan.clean.master #雪豹速清
+  - PROCESS-NAME,com.jingdong.app.mall #京东
+  - PROCESS-NAME,com.jio.media.jiobeats #椒盐音乐
+  - PROCESS-NAME,com.jxnxs.mobile.bank #江西农商
+  - PROCESS-NAME,com.maimemo.android.momo #墨墨背单词
+  - PROCESS-NAME,com.maokebing.mfiles #爱传送
+  - PROCESS-NAME,com.midea.ai.appliances #美的美居
+  - PROCESS-NAME,com.MobileTicket #铁路12306
+  - PROCESS-NAME,com.mystyle.purelive #纯粹直播
+  - PROCESS-NAME,com.paypal.android.p2pmobile #Paypal
+  - PROCESS-NAME,com.salt.music #椒盐播放器
+  - PROCESS-NAME,com.sgcc.wsgw.cn #网上国网
+  - PROCESS-NAME,com.sinovatech.unicom.ui #中国联通
+  - PROCESS-NAME,com.sohu.inputmethod.sogou.meizu #搜狗输入法魅族版
+  - PROCESS-NAME,com.sohu.inputmethod.sogou.samsung #搜狗输入法三星版
+  - PROCESS-NAME,com.sohu.inputmethod.sogou.xiaomi #搜狗输入法小米版
+  - PROCESS-NAME,com.ss.android.ugc.aweme #抖音
+  - PROCESS-NAME,com.suda.yzune.wakeupschedule.hmos #WakeUp课程表鸿蒙版
+  - PROCESS-NAME,com.taobao.idlefish #咸鱼
+  - PROCESS-NAME,com.taobao.taobao #淘宝
+#  - PROCESS-NAME,com.tencent.androidqqmail #QQ邮箱
+  - PROCESS-NAME,com.tencent.mm #微信
+  - PROCESS-NAME,com.tencent.mobileqq #QQ
+  - PROCESS-NAME,com.ticktick.task #TickTtick
+  - PROCESS-NAME,com.tmri.app.main #交管12123
+  - PROCESS-NAME,com.unionpay #云闪付
+  - PROCESS-NAME,com.xiaomi.router #小米WiFi
+  - PROCESS-NAME,com.xiaomi.smarthome #米家
+  - PROCESS-NAME,com.xingin.xhs #小红书
+  - PROCESS-NAME,com.xunlei.downloadprovider #迅雷
+  - PROCESS-NAME,com.xunmeng.pinduoduo #拼多多
+  - PROCESS-NAME,com.xycz.simple_live #Simple live
+  - PROCESS-NAME,com.zhihu.android #知乎
+  - PROCESS-NAME,com.zhumaonline.exercise #竹马
+  - PROCESS-NAME,tv.danmaku.bili #哔哩哔哩
+  - PROCESS-NAME,tv.danmaku.bilibilihd #哔哩哔哩HD
+
+#Android_System_App
+  - PROCESS-NAME,com.android.bluetooth #蓝牙
+  - PROCESS-NAME,com.android.calendar # 日历
+  - PROCESS-NAME,com.android.contacts #联系人
+  - PROCESS-NAME,com.android.deskclock #时钟
+  - PROCESS-NAME,com.android.gallery3d #图库
+  - PROCESS-NAME,com.android.incallui #电话
+  - PROCESS-NAME,com.android.mms #信息
+  - PROCESS-NAME,com.android.packageinstaller #应用安装器
+  - PROCESS-NAME,com.android.soundrecorder #录音机
+  - PROCESS-NAME,com.android.systemui #系统用户界面
+  - PROCESS-NAME,com.example.android.notepad #备忘录
+
+#Huawei_App
+  - PROCESS-NAME,com.hicloud.android.clone #手机克隆
+  - PROCESS-NAME-REGEX,com\.huawei\..* #华为全家桶
+  - PROCESS-NAME,com.unionpay.tsmservice #银联可信服务安全组件
