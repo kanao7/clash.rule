@@ -23,8 +23,114 @@ payload:
   - DOMAIN-REGEX,.*pcdn.*youku\.com
   - DOMAIN-REGEX,.*p2p.*douyucdn\.cn
   - DOMAIN-REGEX,.*p2p.*qq\.com
-# PCDN_antiad
+# PCDN_AntiAD
   - DOMAIN-SUFFIX,pcdn.yximgs.com
   - DOMAIN-SUFFIX,stun.douyucdn.cn
   - DOMAIN-SUFFIX,stun.hitv.com
   - DOMAIN-SUFFIX,stun1.douyucdn.cn
+# Encrypted DNS servers
+  - DOMAIN-SUFFIX,apidns.kwd.inkuai.com
+  - DOMAIN-SUFFIX,dns.iqiyi.com
+  - DOMAIN-SUFFIX,dns.jd.com
+  - DOMAIN-SUFFIX,dns.qiyipic.iqiyi.com
+  - DOMAIN-SUFFIX,dns.weibo.cn
+  - DOMAIN-SUFFIX,dns.weixin.qq.com
+  - DOMAIN-SUFFIX,dns.weixin.qq.com.cn
+  - DOMAIN-SUFFIX,doh.dns.apple.com
+  - DOMAIN-SUFFIX,doh.iqiyi.com
+  - DOMAIN-SUFFIX,doh.ptqy.gitv.tv
+  - DOMAIN-SUFFIX,dotserver.douyucdn.cn
+  - DOMAIN-SUFFIX,hdns.ksyun.com
+  - DOMAIN-SUFFIX,httpdns-api.aliyuncs.com
+  - DOMAIN-SUFFIX,httpdns-browser.platform.dbankcloud.cn
+  - DOMAIN-SUFFIX,httpdns-sc.aliyuncs.com
+  - DOMAIN-SUFFIX,httpdns-sdk.n.netease.com
+  - DOMAIN-SUFFIX,httpdns.alicdn.com
+  - DOMAIN-SUFFIX,httpdns.baidu.com
+  - DOMAIN-SUFFIX,httpdns.baidubce.com
+  - DOMAIN-SUFFIX,httpdns.bcelive.com
+  - DOMAIN-SUFFIX,httpdns.bilivideo.com
+  - DOMAIN-SUFFIX,httpdns.browser.miui.com
+  - DOMAIN-SUFFIX,httpdns.c.cdnhwc2.com
+  - DOMAIN-SUFFIX,httpdns.cctv.com
+  - DOMAIN-SUFFIX,httpdns.danuoyi.tbcache.com
+  - DOMAIN-SUFFIX,httpdns.gslb.yy.com
+  - DOMAIN-SUFFIX,httpdns.huaweicloud.com
+  - DOMAIN-SUFFIX,httpdns.kg.qq.com
+  - DOMAIN-SUFFIX,httpdns.kwd.inkuai.com
+  - DOMAIN-SUFFIX,httpdns.meituan.com
+  - DOMAIN-SUFFIX,httpdns.music.163.com
+  - DOMAIN-SUFFIX,httpdns.n.netease.com
+  - DOMAIN-SUFFIX,httpdns.n.shifen.com
+  - DOMAIN-SUFFIX,httpdns.ocloud.heytapmobi.com
+  - DOMAIN-SUFFIX,httpdns.ocloud.oppomobile.com
+  - DOMAIN-SUFFIX,httpdns.platform.dbankcloud.cn
+  - DOMAIN-SUFFIX,httpdns.platform.dbankcloud.com
+  - DOMAIN-SUFFIX,httpdns.pro
+  - DOMAIN-SUFFIX,httpdns.push.heytapmobi.com
+  - DOMAIN-SUFFIX,httpdns.push.oppomobile.com
+  - DOMAIN-SUFFIX,httpdns.volcengineapi.com
+  - DOMAIN-SUFFIX,httpdns.yunxindns.com
+  - DOMAIN-SUFFIX,httpdns.zybang.com
+  - DOMAIN-SUFFIX,httpdns1.cc.cdnhwc5.com
+  - DOMAIN-SUFFIX,httpsdns.baidu.com
+  - DOMAIN-SUFFIX,lofter.httpdns.c.163.com
+  - DOMAIN-SUFFIX,music.httpdns.c.163.com
+#BAT Built-in DNS
+  - DOMAIN-SUFFIX,dns.qq.com
+  - DOMAIN-SUFFIX,amdc.alipay.com
+  - DOMAIN-SUFFIX,apd-pcdnwxlogin.teg.tencent-cloud.net
+  - DOMAIN-SUFFIX,apd-pcdnwxstat.teg.tencent-cloud.net
+  - DOMAIN-SUFFIX,apd-pcdnwxnat.teg.tencent-cloud.net
+  - DOMAIN-SUFFIX,apd-pcdnvodstat.teg.tencent-cloud.net
+  - DOMAIN-SUFFIX,apd-vodp2plogin.teg.tencent-cloud.net
+#Block Built-in DNS
+  - DOMAIN-SUFFIX,passport.dns.iqiyi.com
+  - DOMAIN-SUFFIX,cz15.now-dns.top
+  - DOMAIN-SUFFIX,jnox.now-dns.top
+  - DOMAIN-SUFFIX,h1-us.iot-dns.com
+  - DOMAIN-SUFFIX,gaut.now-dns.net
+  - DOMAIN-SUFFIX,doujin-assets.dns.doujin.dmm.co.jp
+  - DOMAIN-SUFFIX,dig.zjurl.cn
+  - DOMAIN-REGEX,.*\.dns\.cross\.gt
+  - DOMAIN-REGEX,.*\.compute\.hwclouds-dns\.com
+  - DOMAIN-SUFFIX,dig-ec.bdurl.net
+  - DOMAIN-SUFFIX,dns.cyida.com
+  - DOMAIN-SUFFIX,dns-info-static.hitwh.net.cn
+  - DOMAIN-SUFFIX,wlay.dd-dns.de
+  - DOMAIN-SUFFIX,now-dns.net
+  - DOMAIN-SUFFIX,dns.jd.com.gslb.qianxun.com
+  - DOMAIN-REGEX,.*\.dns-detect\.alicdn\.com
+  - DOMAIN-SUFFIX,httpdns.music.ntes53.netease.com
+  - DOMAIN-REGEX,.*\.dns\.cross\.gt
+  - DOMAIN-SUFFIX,dig-tlsv3.bdurl.net
+  - DOMAIN-SUFFIX,dns.loveimgmoe.com
+  - DOMAIN-SUFFIX,v6-data.video.dns.iqiyi.com
+  - DOMAIN-SUFFIX,dns.icoa.cn
+  - DOMAIN-SUFFIX,now-dns.org
+  - DOMAIN-SUFFIX,dns-test.research.a10protects.com
+  - DOMAIN-SUFFIX,iface2.dns.iqiyi.com
+  - DOMAIN-SUFFIX,bj.vip.waf.dns.iqiyi.com
+  - DOMAIN-SUFFIX,ipv6-static.dns.iqiyi.com
+  - DOMAIN-SUFFIX,data.video.dns.iqiyi.com
+  - DOMAIN-SUFFIX,static.dns.qiyipic.iqiyi.com
+  - DOMAIN-SUFFIX,api.yuedu.dns.iqiyi.com
+  - DOMAIN-SUFFIX,dns-detect.alicdn.com
+  - DOMAIN-SUFFIX,api-env.dropbox-dns.com
+  - DOMAIN-SUFFIX,oss.dns.aliyun.com.dalvhe.com
+  - DOMAIN-SUFFIX,dns.supfree.net
+  - DOMAIN-SUFFIX,anti-sdk-report.m.jd.com
+  - DOMAIN-REGEX,dns.*po\.lzn376\.com
+  - DOMAIN-REGEX,dnsa.*f\..*zzy\.com
+  - DOMAIN-REGEX,dns-.*\.eastus\.cloudapp\.azure\.com
+  - DOMAIN-REGEX,dnsnio\..*\.com
+  - DOMAIN-REGEX,dnszcp\.zzg.*\.com
+  - DOMAIN-REGEX,dns.*\.londrimarketing\.com\.br
+  - DOMAIN-SUFFIX,dnss-blocklist.flinteger.com
+  - DOMAIN-SUFFIX,dnsin.in.zapto.xyz
+  - DOMAIN-SUFFIX,dns1.dimassa.net
+  - DOMAIN-REGEX,dnsrr9\.wym.*\.com
+  - DOMAIN-REGEX,dnsxyc\.wym.*\.com
+  - DOMAIN-SUFFIX,httpdns.tantanapp.com
+  - DOMAIN-REGEX,httpdns\..*\.yy\.com
+  - DOMAIN-REGEX,.*dns.*\.adobe\.com
