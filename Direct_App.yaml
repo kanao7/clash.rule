@@ -84,5 +84,5 @@ payload:
 
 #Huawei_App
   - PROCESS-NAME,com.hicloud.android.clone #手机克隆
-  - PROCESS-NAME-REGEX,com\.huawei\..* #华为全家桶
+  - PROCESS-NAME-REGEX,^com\.huawei\.[a-z.]*$ #华为全家桶
   - PROCESS-NAME,com.unionpay.tsmservice #银联可信服务安全组件
