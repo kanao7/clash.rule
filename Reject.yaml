@@ -4,17 +4,6 @@ payload:
 #  - PROCESS-NAME,com.sohu.inputmethod.sogou.samsung
 #  - PROCESS-NAME,com.sohu.inputmethod.sogou.xiaomi
 #  - PROCESS-NAME,com.huawei.ohos.inputmethod
-# Ads - Coolapk
-  - DOMAIN-SUFFIX,ctobsnssdk.com
-  - DOMAIN-SUFFIX,pangolin.snssdk.com
-  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
-  - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
-  - DOMAIN-REGEX,.*\.pangolin-sdk-toutiao.*\.com
-  - DOMAIN-SUFFIX,pglstatp-toutiao.com
-  - DOMAIN-SUFFIX,aaid.umeng.com
-  - DOMAIN-REGEX,tnc.*\.zijieapi\.com
-  - DOMAIN-SUFFIX,mssdk-bu.bytedance.com
-  - DOMAIN-REGEX,adx-.*\.anythinktech\.com
   - DOMAIN-SUFFIX,telecome.cn
   - DOMAIN-SUFFIX,unioncom.cc
 #PCDN_noodssek
@@ -32,10 +21,10 @@ payload:
   - DOMAIN-SUFFIX,p2p.huya.com
   - DOMAIN-SUFFIX,tpa-hcdn.iqiyi.com
   - DOMAIN-SUFFIX,pcdn.xmcdn.com
-  - DOMAIN-REGEX,.*pcdn.*biliapi\.net
-  - DOMAIN-REGEX,.*pcdn.*youku\.com
-  - DOMAIN-REGEX,.*p2p.*douyucdn\.cn
-  - DOMAIN-REGEX,.*p2p.*qq\.com
+  - DOMAIN-REGEX,^[a-z0-9.-]*pcdn[a-z0-9.-]*biliapi\.net$
+  - DOMAIN-REGEX,^[a-z0-9.-]*pcdn[a-z0-9.-]*youku\.com$
+  - DOMAIN-REGEX,^[a-z0-9.-]*p2p[a-z0-9.-]*douyucdn\.cn$
+  - DOMAIN-REGEX,^[a-z0-9.-]*p2p[a-z0-9.-]*qq\.com$
 # PCDN_AntiAD
   - DOMAIN-SUFFIX,pcdn.yximgs.com
   - DOMAIN-SUFFIX,stun.douyucdn.cn
@@ -105,17 +94,17 @@ payload:
   - DOMAIN-SUFFIX,gaut.now-dns.net
   - DOMAIN-SUFFIX,doujin-assets.dns.doujin.dmm.co.jp
   - DOMAIN-SUFFIX,dig.zjurl.cn
-  - DOMAIN-REGEX,.*\.dns\.cross\.gt
-  - DOMAIN-REGEX,.*\.compute\.hwclouds-dns\.com
+  - DOMAIN-REGEX,^[a-z0-9.-]*\.dns\.cross\.gt$
+  - DOMAIN-REGEX,^[a-z0-9.-]*\.compute\.hwclouds-dns\.com$
   - DOMAIN-SUFFIX,dig-ec.bdurl.net
   - DOMAIN-SUFFIX,dns.cyida.com
   - DOMAIN-SUFFIX,dns-info-static.hitwh.net.cn
   - DOMAIN-SUFFIX,wlay.dd-dns.de
   - DOMAIN-SUFFIX,now-dns.net
   - DOMAIN-SUFFIX,dns.jd.com.gslb.qianxun.com
-  - DOMAIN-REGEX,.*\.dns-detect\.alicdn\.com
+  - DOMAIN-REGEX,^[a-z0-9.-]*\.dns-detect\.alicdn\.com$
   - DOMAIN-SUFFIX,httpdns.music.ntes53.netease.com
-  - DOMAIN-REGEX,.*\.dns\.cross\.gt
+  - DOMAIN-REGEX,^[a-z0-9.-]*\.dns\.cross\.gt$
   - DOMAIN-SUFFIX,dig-tlsv3.bdurl.net
   - DOMAIN-SUFFIX,dns.loveimgmoe.com
   - DOMAIN-SUFFIX,v6-data.video.dns.iqiyi.com
@@ -133,17 +122,17 @@ payload:
   - DOMAIN-SUFFIX,oss.dns.aliyun.com.dalvhe.com
   - DOMAIN-SUFFIX,dns.supfree.net
   - DOMAIN-SUFFIX,anti-sdk-report.m.jd.com
-  - DOMAIN-REGEX,dns.*po\.lzn376\.com
-  - DOMAIN-REGEX,dnsa.*f\..*zzy\.com
-  - DOMAIN-REGEX,dns-.*\.eastus\.cloudapp\.azure\.com
-  - DOMAIN-REGEX,dnsnio\..*\.com
-  - DOMAIN-REGEX,dnszcp\.zzg.*\.com
-  - DOMAIN-REGEX,dns.*\.londrimarketing\.com\.br
+  - DOMAIN-REGEX,^dns[a-z0-9.-]*po\.lzn376\.com$
+  - DOMAIN-REGEX,^dnsa[a-z0-9.-]*f\.[a-z0-9.-]*zzy\.com$
+  - DOMAIN-REGEX,^dns-[a-z0-9.-]*\.eastus\.cloudapp\.azure\.com$
+  - DOMAIN-REGEX,^dnsnio\.[a-z0-9.-]*\.com$
+  - DOMAIN-REGEX,^dnszcp\.zzg[a-z0-9.-]*\.com$
+  - DOMAIN-REGEX,^dns[a-z0-9.-]*\.londrimarketing\.com\.br$
   - DOMAIN-SUFFIX,dnss-blocklist.flinteger.com
   - DOMAIN-SUFFIX,dnsin.in.zapto.xyz
   - DOMAIN-SUFFIX,dns1.dimassa.net
-  - DOMAIN-REGEX,dnsrr9\.wym.*\.com
-  - DOMAIN-REGEX,dnsxyc\.wym.*\.com
+  - DOMAIN-REGEX,^dnsrr9\.wym[a-z0-9.-]*\.com$
+  - DOMAIN-REGEX,^dnsxyc\.wym[a-z0-9.-]*\.com$
   - DOMAIN-SUFFIX,httpdns.tantanapp.com
-  - DOMAIN-REGEX,httpdns\..*\.yy\.com
-  - DOMAIN-REGEX,.*dns.*\.adobe\.com
+  - DOMAIN-REGEX,^httpdns\.[a-z0-9.-]*\.yy\.com$
+  - DOMAIN-REGEX,^[a-z0-9.-]*dns[a-z0-9.-]*\.adobe\.com$
