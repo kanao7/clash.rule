@@ -5,7 +5,8 @@ payload:
 #  - PROCESS-NAME,com.sohu.inputmethod.sogou.xiaomi
 #  - PROCESS-NAME,com.huawei.ohos.inputmethod
 #0919.20.17
-  - DOMAIN-REGEX,^[a-z0-9.-]-pitaya\.bytetos\.com$
+  - DOMAIN-REGEX,^[a-z0-9.-]pitaya\.bytetos\.com$
+  - DOMAIN-REGEX,^[a-z0-9.-]*\.pangolin-sdk-toutiao[a-z0-9.-]*\.com$
   - DOMAIN-REGEX,^tnc[a-z0-9.-]*\.zijieapi\.com$
   - DOMAIN-SUFFIX,abtest-ch.snssdk.com
   - DOMAIN-SUFFIX,anythinktech.com
@@ -26,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,umeng.com
   - DOMAIN-SUFFIX,unioncom.cc
   - DOMAIN-SUFFIX,vcs.zijieapi.com
+  - DOMAIN-SUFFIX,wcp.taobao.com
   - DOMAIN-SUFFIX,webcast5-open-lf.douyin.com
   - DOMAIN-SUFFIX,webcast-open.douyin.com
 #PCDN_noodssek
