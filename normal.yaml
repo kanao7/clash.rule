@@ -64,13 +64,13 @@ proxy-groups:
     proxies:
       - REJECT-DROP
       - DIRECT
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png
+    icon: https://ghp.ci/https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png
 
   - name: Match
     type: select
     proxies:
       - DIRECT
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Final.png
+    icon: https://ghp.ci/https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Final.png
 
 rule-providers:
 
@@ -80,7 +80,7 @@ rule-providers:
     interval: 86400
     proxy: DIRECT
     format: yaml
-    url: https://raw.githubusercontent.com/kanao7/clash.rule/main/Reject.yaml
+    url: https://ghp.ci/https://raw.githubusercontent.com/kanao7/clash.rule/main/Reject.yaml
     path: ./Providers/Rule/Reject.yaml
 
   AD: 
@@ -89,7 +89,7 @@ rule-providers:
     interval: 86400
     proxy: DIRECT
     format: yaml
-    url: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Clash-classical.yaml
+    url: https://ghp.ci/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Clash-classical.yaml
     path: ./Providers/Rule/AD.yaml
 
 rules:
