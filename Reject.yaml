@@ -4,8 +4,26 @@ payload:
 #  - PROCESS-NAME,com.sohu.inputmethod.sogou.samsung
 #  - PROCESS-NAME,com.sohu.inputmethod.sogou.xiaomi
 #  - PROCESS-NAME,com.huawei.ohos.inputmethod
-  - DOMAIN-SUFFIX,telecome.cn
-  - DOMAIN-SUFFIX,unioncom.cc
+#0919.20.17
+  - DOMAIN,adx-bj.anythinktech.com #广州布里奇信息科技有限公司 广告业
+  - DOMAIN,android.bugly.qq.com # 腾讯端质量监控平台
+  - DOMAIN,apmplus.volces.com # 火山引擎下的性能监控产品
+  - DOMAIN,api-access.pangolin-sdk-toutiao-b.com
+  - DOMAIN-SUFFIX,,auni.telecome.cn #北京数字精准广告有限公司
+  - DOMAIN,bes-mtj.baidu.com #百度移动统计
+  - DOMAIN,cn-api.anythinktech.com
+  - DOMAIN,datk.anythinktech.com
+  - DOMAIN,lf6-ad-union-sdk.pglstatp-toutiao.com
+  - DOMAIN,lf26-pitaya.bytetos.com
+  - DOMAIN,lf3-pitaya.bytetos.com
+  - DOMAIN,lf6-pitaya.bytetos.com
+  - DOMAIN,mssdk-bu.bytedance.com #字节
+  - DOMAIN,unioncom.cc #北京数字精准广告有限公司
+  - DOMAIN-SUFFIX,v2mi.gdt.qq.com #腾讯社交联盟广告
+  - DOMAIN,v3.gdt.qq.com
+  - DOMAIN,vcs.zijieapi.com
+  - DOMAIN,webcast5-open-lf.douyin.com
+  - DOMAIN-SUFFIX,rdt.tfogc.com
 #PCDN_noodssek
   - DOMAIN-SUFFIX,szbdyd.com
   - DOMAIN-SUFFIX,mcdn.bilivideo.cn
