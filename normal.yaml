@@ -93,7 +93,7 @@ rule-providers:
     path: ./Providers/Rule/AD.yaml
 
 rules:
-  - AND,((NETWORK,UDP),(DST-PORT,443),(RULE-SET,GFW)),Reject
+  - AND,((NETWORK,UDP),(DST-PORT,443)),Reject
   - RULE-SET,Reject,Reject
   - RULE-SET,AD,Reject
   - MATCH,Match
