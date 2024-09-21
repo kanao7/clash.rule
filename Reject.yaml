@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,bes-mtj.baidu.com
   - DOMAIN-SUFFIX,bugly.qq.com
   - DOMAIN-SUFFIX,ctobsnssdk.com
+  - DOMAIN-SUFFIX,dm-hl.toutiao.com
   - DOMAIN-SUFFIX,dspsdk.pinduoduo.com
   - DOMAIN-SUFFIX,grs.dbankcloud.cn
   - DOMAIN-SUFFIX,gdt.qq.com
