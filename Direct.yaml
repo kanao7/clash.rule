@@ -3,9 +3,9 @@ payload:
   - DOMAIN-SUFFIX,dandanplay.net
   - DOMAIN-SUFFIX,jxlibrary.net
 #Emby_Direct
-  - DOMAIN-SUFFIX,pilifun.top
-  - DOMAIN-SUFFIX,emby-kyoma.pilipiliultra.com
-  - DOMAIN-SUFFIX,ycxdy.top
+#  - DOMAIN-SUFFIX,pilifun.top
+#  - DOMAIN-SUFFIX,emby-kyoma.pilipiliultra.com
+#  - DOMAIN-SUFFIX,ycxdy.top
   - DOMAIN-SUFFIX,emby3.029902.xyz
   - DOMAIN-SUFFIX,pub1.emby.wtf
   - DOMAIN-SUFFIX,pub2.emby.wtf
