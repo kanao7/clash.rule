@@ -8,10 +8,10 @@ payload:
 #paul
   - DOMAIN-SUFFIX,cf.imetyou.top #cf
 #TreeDiagram
-  - DOMAIN-SUFFIX,789.123456.al #cf
+  - DOMAIN-SUFFIX,789.123456.al #cf  
 #pilipili
-  - DOMAIN-SUFFIX,emby.pilipiliultra.top
-  - DOMAIN-SUFFIX,emby.pilipiliultra.com #cf
+#  - DOMAIN-SUFFIX,emby.pilipiliultra.top  
+#  - DOMAIN-SUFFIX,emby.pilipiliultra.com #cf
   - DOMAIN-SUFFIX,pilipili.club
   - DOMAIN-SUFFIX,stream_pilipili.misakaf.org
 #misakaf
@@ -24,9 +24,9 @@ payload:
   - DOMAIN-SUFFIX,emby-misakaf.atomlantis.cloud
 #zdz
 #  - DOMAIN-SUFFIX,emby.wtf
-  - DOMAIN-SUFFIX,pub1cf.emby.wtf #cf
-  - DOMAIN-SUFFIX,pub2cf.emby.wtf
-  - DOMAIN-SUFFIX,pub3cf.emby.wtf
+  - DOMAIN-SUFFIX,pub1cf.term.wtf #cf
+  - DOMAIN-SUFFIX,pub2cf.term.wtf
+  - DOMAIN-SUFFIX,pub3cf.term.wtf
 #cc
   - DOMAIN-SUFFIX,carryz.net
   - DOMAIN-SUFFIX,coemn.com
