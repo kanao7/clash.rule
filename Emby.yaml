@@ -24,9 +24,9 @@ payload:
   - DOMAIN-SUFFIX,emby-misakaf.atomlantis.cloud
 #zdz
 #  - DOMAIN-SUFFIX,emby.wtf
-  - DOMAIN-SUFFIX,pub1cf.term.wtf #cf
-  - DOMAIN-SUFFIX,pub2cf.term.wtf
-  - DOMAIN-SUFFIX,pub3cf.term.wtf
+  - DOMAIN-SUFFIX,pub1.term.wtf #cf
+  - DOMAIN-SUFFIX,pub2.term.wtf
+  - DOMAIN-SUFFIX,pub3.term.wtf
 #cc
   - DOMAIN-SUFFIX,carryz.net
   - DOMAIN-SUFFIX,coemn.com
