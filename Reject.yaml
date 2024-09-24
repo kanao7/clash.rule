@@ -11,6 +11,7 @@ payload:
   - DOMAIN-REGEX,^tnc[a-z0-9.-]*\.toutiaoapi\.com$
   - DOMAIN-REGEX,^tnc[a-z0-9.-]*\.zijieapi\.com$
   - DOMAIN-SUFFIX,abtest-ch.snssdk.com
+  - DOMAIN-SUFFIX,adukwai.com
   - DOMAIN-SUFFIX,anythinktech.com
   - DOMAIN-SUFFIX,apmplus.volces.com
   - DOMAIN-SUFFIX,bes-mtj.baidu.com
@@ -27,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,pglstatp-toutiao.com
   - DOMAIN-SUFFIX,promotion-partner.kuaishou.com
   - DOMAIN-SUFFIX,rdt.tfogc.com
+  - DOMAIN-SUFFIX,tanx.com
   - DOMAIN-SUFFIX,telecome.cn
   - DOMAIN-SUFFIX,umeng.com
   - DOMAIN-SUFFIX,unioncom.cc
