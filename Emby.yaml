@@ -1,37 +1,35 @@
 payload:
 #纸片人
-  - DOMAIN-SUFFIX,emby.embyplus.org
-  - DOMAIN-SUFFIX,embyplus.org #cf
-  - DOMAIN-SUFFIX,stream.9521732.xyz
-  - DOMAIN-SUFFIX,gd.9521732.xyz
+  - DOMAIN,embyplus.org #cf
+  - DOMAIN,emby.embyplus.org
+  - DOMAIN,stream.9521732.xyz
+  - DOMAIN,gd.9521732.xyz
   - DOMAIN-SUFFIX,9521732.xyz
 #paul
-  - DOMAIN-SUFFIX,cf.imetyou.top #cf
+  - DOMAIN,cf.imetyou.top #cf
 #TreeDiagram
-  - DOMAIN-SUFFIX,789.123456.al #cf  
+  - DOMAIN,789.123456.al #cf  
 #pilipili
-#  - DOMAIN-SUFFIX,emby.pilipiliultra.top  
-#  - DOMAIN-SUFFIX,emby.pilipiliultra.com #cf
-  - DOMAIN-SUFFIX,pilipili.club
-  - DOMAIN-SUFFIX,stream_pilipili.misakaf.org
+  - DOMAIN,pilipili.club
+  - DOMAIN,stream_pilipili.misakaf.org
 #misakaf
-  - DOMAIN-SUFFIX,emby.aca.best
-  - DOMAIN-SUFFIX,stream1.misakaf.org
-  - DOMAIN-SUFFIX,stream2.misakaf.org
-  - DOMAIN-SUFFIX,stream3.misakaf.org
-  - DOMAIN-SUFFIX,stream4.misakaf.org
+  - DOMAIN,emby.aca.best
+  - DOMAIN,stream1.misakaf.org
+  - DOMAIN,stream2.misakaf.org
+  - DOMAIN,stream3.misakaf.org
+  - DOMAIN,stream4.misakaf.org
   - DOMAIN-SUFFIX,misakaf.org
-  - DOMAIN-SUFFIX,emby-misakaf.atomlantis.cloud
+  - DOMAIN,emby-misakaf.atomlantis.cloud
 #zdz
 #  - DOMAIN-SUFFIX,emby.wtf
-  - DOMAIN-SUFFIX,pub1.term.wtf #cf
-  - DOMAIN-SUFFIX,pub2.term.wtf
-  - DOMAIN-SUFFIX,pub3.term.wtf
+  - DOMAIN,pub1.term.wtf #cf
+  - DOMAIN,pub2.term.wtf
+  - DOMAIN,pub3.term.wtf
 #cc
   - DOMAIN-SUFFIX,carryz.net
   - DOMAIN-SUFFIX,coemn.com
 #lyrebird
-  - DOMAIN-SUFFIX,cdn.lyrebirdemby.com #cf
+  - DOMAIN,cdn.lyrebirdemby.com #cf
 #embyapp
   - PROCESS-NAME,Emby.Theater.exe
 #  - PROCESS-NAME,electron.exe
