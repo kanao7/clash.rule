@@ -6,8 +6,13 @@ payload:
 #  - DOMAIN-SUFFIX,pilifun.top  
 #  - DOMAIN-SUFFIX,emby-kyoma.pilipiliultra.com
 #  - DOMAIN-SUFFIX,ycxdy.top
-  - DOMAIN-SUFFIX,emby3.029902.xyz #JP移动直连
-  - DOMAIN-SUFFIX,tw.embyplus.org #TW三网直连
+  - DOMAIN-SUFFIX,emby.029902.xyz #US-rn-电信
+  - DOMAIN-SUFFIX,emby2.029902.xyz #DE-bage-联通
+  - DOMAIN-SUFFIX,emby3.029902.xyz #JP-xtom-移动
+  - DOMAIN-SUFFIX,emby4.029902.xyz #HK移动
+  - DOMAIN-SUFFIX,emby5.029902.xyz #JP-gci-移动
+  - DOMAIN-SUFFIX,emby7.029902.xyz #JP-digitalvirt-移动
+  - DOMAIN-SUFFIX,tw.embyplus.org #TW-hinet-三网
   - DOMAIN-SUFFIX,pub1.emby.wtf
   - DOMAIN-SUFFIX,pub2.emby.wtf
   - DOMAIN-SUFFIX,pub3.emby.wtf
