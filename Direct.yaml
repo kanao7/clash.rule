@@ -3,8 +3,12 @@ payload:
   - DOMAIN-SUFFIX,dandanplay.net
   - DOMAIN-SUFFIX,jxlibrary.net
 #Emby_Direct
-#  - DOMAIN-SUFFIX,pilifun.top  
-#  - DOMAIN-SUFFIX,emby-kyoma.pilipiliultra.com
+  - DOMAIN,pilifun.top #yxvmJP-软银
+  - DOMAIN,css.pilipili.club #US-css
+  - DOMAIN,tw.pilipili.club #TW-hinet
+  - DOMAIN,xn--ohq746dhyifsj.xn--pp5aa2sb.com #UK-联通
+  - DOMAIN,us.pilifun.top #US-联通
+  - DOMAIN,otto.pilipili.club #VN-电信
 #  - DOMAIN-SUFFIX,ycxdy.top
   - DOMAIN,emby.029902.xyz #US-rn-电信
   - DOMAIN,emby2.029902.xyz #DE-bage-联通
@@ -12,8 +16,12 @@ payload:
   - DOMAIN,emby4.029902.xyz #HK移动
   - DOMAIN,emby5.029902.xyz #JP-gci-移动
   - DOMAIN,emby7.029902.xyz #JP-digitalvirt-移动
-  - DOMAIN-SUFFIX,029902.xyz
+  - DOMAIN,rn2.embyplus.org #US-rn-电信
+  - DOMAIN,hh.embyplus.org #HL-hh-普通线路
   - DOMAIN,tw.embyplus.org #TW-hinet-三网
+  - DOMAIN,hyonix.embyplus.org
+  - DOMAIN,de.gd.embyplus.org
+  - DOMAIN,oracle-chuncheon1.embyplus.org #KR-oracle-联通
   - DOMAIN,pub1.emby.wtf
   - DOMAIN,pub2.emby.wtf
   - DOMAIN,pub3.emby.wtf
