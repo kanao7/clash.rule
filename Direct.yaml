@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,mikanime.tv
   - DOMAIN-SUFFIX,dandanplay.net
   - DOMAIN-SUFFIX,jxlibrary.net
+  - DOMAIN,www.gstatic.com
 #Emby_Direct
   - DOMAIN,pilifun.top #yxvmJP-软银
   - DOMAIN,css.pilipili.club #US-css
