@@ -25,7 +25,7 @@ payload:
   - DOMAIN,pub1.emby.wtf
   - DOMAIN,pub2.emby.wtf
   - DOMAIN,pub3.emby.wtf
-#cloudflare-dns
+#Cloudflare-dns
   - IP-CIDR,1.1.1.1/32,no-resolve
   - IP-CIDR,1.0.0.1/32,no-resolve
   - IP-CIDR,162.159.36.1/32,no-resolve
@@ -54,62 +54,67 @@ payload:
   - IP-CIDR,104.16.133.229/32,no-resolve
   - IP-CIDR6,2606:4700::6810:84e5/128,no-resolve
   - IP-CIDR6,2606:4700::6810:85e5/128,no-resolve
-  - DOMAIN,chrome.cloudflare-dns.com
+#  - DOMAIN,chrome.cloudflare-dns.com
   - IP-CIDR,162.159.61.3/32,no-resolve
   - IP-CIDR,172.64.41.3/32,no-resolve
   - IP-CIDR6,2803:f800:53::3/128,no-resolve
   - IP-CIDR6,2a06:98c1:52::3/128,no-resolve
-  - DOMAIN-REGEX,^([a-z0-9-]+\.)?cloudflare-dns\.com$
+  - DOMAIN-REGEX,^((security|family|chrome)\.)?cloudflare-dns\.com$
 #  - DOMAIN,6xxbg5r8cp.cloudflare-gateway.com
   - DOMAIN-REGEX,^[a-z0-9-]+\.cloudflare-gateway\.com$
   - IP-CIDR,162.159.36.20/32,no-resolve
   - IP-CIDR,162.159.36.5/32,no-resolve
   - IP-CIDR6,2606:4700:5c::a29f:2e07/128,no-resolve
   - IP-CIDR6,2606:4700:54::a29f:2407/128,no-resolve
-#nextdns
+#Nextdns
 #  - DOMAIN,dns.nextdns.io
 #  - DOMAIN,laptop-1db17b.dns.nextdns.io
-  - DOMAIN-REGEX,^([a-z0-9-]+\.)?dns\.nextdns\.com$
+#  - DOMAIN-REGEX,^([a-z0-9-]+\.)?dns\.nextdns\.io$
+  - DOMAIN-REGEX,^(([a-z0-9-]+)?1db17b\.)?dns\.nextdns\.io$
   - IP-CIDR,45.11.104.186/32,no-resolve
   - IP-CIDR6,2a0b:4341:509:186:5054:ff:fe0e:98d3/128,no-resolve
-#opendns
-  - DOMAIN,dns.opendns.com
+#OpenDNS
+#  - DOMAIN,dns.opendns.com
   - IP-CIDR,208.67.222.222/32,no-resolve
   - IP-CIDR,208.67.220.220/32,no-resolve
   - IP-CIDR6,2620:119:35::35/128,no-resolve
   - IP-CIDR6,2620:119:53::53/128,no-resolve
-  - DOMAIN,doh.opendns.com
+#  - DOMAIN,doh.opendns.com
+  - DOMAIN-REGEX,^d(ns|oh)\.opendns\.com$
   - IP-CIDR,146.112.41.2/32,no-resolve
   - IP-CIDR6,2620:119:fc::2/32,no-resolve
- #dns.sb
-  - DOMAIN,hk-hkg.doh.sb
+#Dns.SB
+#  - DOMAIN,hk-hkg.doh.sb
   - IP-CIDR,45.125.0.26/32,no-resolve
   - IP-CIDR6,2403:2c80::26/128,no-resolve
-  - DOMAIN,jp-nrt.doh.sb
+#  - DOMAIN,jp-nrt.doh.sb
   - IP-CIDR,103.121.210.210,no-resolve
   - IP-CIDR6,2403:fbc0:1000::babe
-  - DOMAIN,jp-kix.doh.sb
+#  - DOMAIN,jp-kix.doh.sb
+  - DOMAIN-REGEX,(hk-hkg|jp-nrt|jp-kix)\.doh\.sb
   - IP-CIDR,202.5.221.132/29,no-resolve
   - IP-CIDR6,2403:ac80:1030::2/128,no-resolve
-#adguard-dns
-  - DOMAIN,unfiltered.adguard-dns.com
+#Adguard-dns
+#  - DOMAIN,unfiltered.adguard-dns.com
   - IP-CIDR,94.140.14.140/32,no-resolve
   - IP-CIDR,94.140.14.141/32,no-resolve
   - IP-CIDR6,2a10:50c0::1:ff/128,no-resolve
   - IP-CIDR6,2a10:50c0::2:ff/128,no-resolve
-  - DOMAIN,dns.adguard-dns.com
+#  - DOMAIN,dns.adguard-dns.com
   - IP-CIDR,94.140.14.14/32,no-resolve
   - IP-CIDR,94.140.15.15/32,no-resolve
   - IP-CIDR6,2a10:50c0::ad1:ff/128,no-resolve
   - IP-CIDR6,2a10:50c0::ad2:ff/128,no-resolve
-  - DOMAIN,family.adguard-dns.com
+#  - DOMAIN,family.adguard-dns.com
   - IP-CIDR,94.140.14.15/32,no-resolve
   - IP-CIDR,94.140.15.16/32,no-resolve
   - IP-CIDR6,2a10:50c0::bad1:ff/128,no-resolve
   - IP-CIDR6,2a10:50c0::bad2:ff/128,no-resolve
-  - DOMAIN,d.adguard-dns.com
-  - DOMAIN,d6f757c2.d.adguard-dns.com
-  - DOMAIN-REGEX,^([a-z0-9-]+\.){1,2}adguard-dns\.com$ #匹配2/3级域名
+#  - DOMAIN,d.adguard-dns.com
+#  - DOMAIN,d6f757c2.d.adguard-dns.com
+#  - DOMAIN-REGEX,^([a-z0-9-]+\.){1,2}adguard-dns\.com$ #匹配2/3级域名
+  - DOMAIN-REGEX,^((([a-z0-9-]+\.)?d)|(unfiltered|dns|family))\.adguard-dns\.com$
+  
   - IP-CIDR,94.140.14.49/32,no-resolve
   - IP-CIDR6,2a10:50c0::ded:ff,no-resolve
 #alidns
@@ -125,7 +130,8 @@ payload:
 #  - DOMAIN,dot.pub
   - IP-CIDR,120.53.53.53/32,no-resolve
 #  - DOMAIN,doh-d53979cf.doh.pub
-  - DOMAIN-REGEX,^([a-z0-9-]+\.)?do(h|t)\.pub$ #匹配1/2级域名
+#  - DOMAIN-REGEX,^([a-z0-9-]+\.)?do(h|t)\.pub$ #匹配1/2级域名
+  - DOMAIN-REGEX,^(((dot-d53979cf)|(doh-d53979cf((-[a-z0-9-]+)?)))\.)?do(h|t)\.pub$
   - IP-CIDR,1.12.34.56/32,no-resolve
   - IP-CIDR,119.29.29.29/32,no-resolve
   - IP-CIDR,182.254.116.116/32,no-resolve
