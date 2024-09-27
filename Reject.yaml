@@ -30,7 +30,7 @@ payload:
   - DOMAIN-SUFFIX,rdt.tfogc.com
   - DOMAIN-SUFFIX,tanx.com
   - DOMAIN-SUFFIX,telecome.cn
-  - DOMAIN-SUFFIX,umeng.com
+#  - DOMAIN-SUFFIX,umeng.com
   - DOMAIN-SUFFIX,unioncom.cc
   - DOMAIN-SUFFIX,vcs.zijieapi.com
   - DOMAIN-SUFFIX,wcp.taobao.com
