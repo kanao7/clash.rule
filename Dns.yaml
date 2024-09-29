@@ -1,3 +1,4 @@
+payload:
 #Cloudflare-dns
   - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,cloudflare-gateway.com
