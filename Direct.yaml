@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,dandanplay.net
   - DOMAIN-SUFFIX,jxlibrary.net
   - DOMAIN,www.gstatic.com
+  - DOMAIN,yxvm.com
 #Emby_Direct
   - DOMAIN,pilifun.top #yxvmJP-软银
   - DOMAIN,css.pilipili.club #US-css
