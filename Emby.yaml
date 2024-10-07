@@ -12,6 +12,7 @@ payload:
 #pilipili
   - DOMAIN,pilipili.club
   - DOMAIN,stream_pilipili.misakaf.org
+  - DOMAIN,pilipili.misakaf.org
 #misakaf
   - DOMAIN,emby.aca.best
   - DOMAIN,stream1.misakaf.org
