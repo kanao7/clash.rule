@@ -27,9 +27,9 @@ payload:
   - DOMAIN,pub2.term.wtf
   - DOMAIN,pub3.term.wtf
 #cc
-  - DOMAIN-SUFFIX,carryz.net
-  - DOMAIN-SUFFIX,coemn.com
+  - DOMAIN,cc.coemn.com
   - DOMAIN,cc.embycc.link #cf
+  - DOMAIN,cc.carryz.net
 #lyrebird
   - DOMAIN,cdn.lyrebirdemby.com #cf
 #embyapp
