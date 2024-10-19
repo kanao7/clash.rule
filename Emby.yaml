@@ -29,6 +29,7 @@ payload:
 #cc
   - DOMAIN-SUFFIX,carryz.net
   - DOMAIN-SUFFIX,coemn.com
+  - DOMAIN,cc.embycc.link #cf
 #lyrebird
   - DOMAIN,cdn.lyrebirdemby.com #cf
 #embyapp
