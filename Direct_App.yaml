@@ -9,6 +9,7 @@ payload:
   - PROCESS-NAME,ACE-Tray.exe
   - PROCESS-NAME,VALORANT.exe
   - PROCESS-NAME,VALORANT-Win64-Shipping.exe
+  - PROCESS-NAME,Ani.exe
 
 #Android_APP
   - PROCESS-NAME,bin.mt.plus #mt管理器
@@ -66,6 +67,7 @@ payload:
   - PROCESS-NAME,com.xycz.simple_live #Simple live
   - PROCESS-NAME,com.zhihu.android #知乎
   - PROCESS-NAME,com.zhumaonline.exercise #竹马
+  - PROCESS-NAME,me.him188.ani #Ani
   - PROCESS-NAME,tv.danmaku.bili #哔哩哔哩
   - PROCESS-NAME,tv.danmaku.bilibilihd #哔哩哔哩HD
 
