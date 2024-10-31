@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,bing.com.cn
+#  - DOMAIN-SUFFIX,bing.com
+#  - DOMAIN-SUFFIX,bing.com.cn
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,mikanani.me
   - DOMAIN-SUFFIX,store.steampowered.com
