@@ -1,5 +1,8 @@
 payload:
   - DOMAIN,rargb.to
+#劳大
+  - DOMAIN,emby-mica-us-v1.mius.uk
+  - DOMAIN,emby-micax-ca-v2.mius.uk
 #纸片人
   - DOMAIN,embyplus.org #cf
   - DOMAIN,emby.embyplus.org
