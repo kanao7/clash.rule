@@ -5,6 +5,8 @@ payload:
   - DOMAIN,www.gstatic.com
   - DOMAIN,yxvm.com
 #Emby_Direct
+  - DOMAIN,emby-mica-hk-v4.mius.uk #HK-CLOW
+  - DOMAIN,emby-mica-yxvm-hk-v4.mius.uk #HK-YXVM
   - DOMAIN,pilifun.top #yxvmJP-软银
   - DOMAIN,css.pilipili.club #US-css
   - DOMAIN,tw.pilipili.club #TW-hinet
