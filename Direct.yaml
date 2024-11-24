@@ -6,6 +6,7 @@ payload:
   - DOMAIN,yxvm.com
 #Emby_Direct
   - DOMAIN,emby-mica-hk-v4.mius.uk #HK-CLOW
+  - DOMAIN,emby-mica-hk3-v4.mius.uk #HK-CLOW
   - DOMAIN,emby-mica-yxvm-hk-v4.mius.uk #HK-YXVM
   - DOMAIN,pilifun.top #yxvmJP-软银
   - DOMAIN,css.pilipili.club #US-css
@@ -14,6 +15,9 @@ payload:
   - DOMAIN,xn--ohq746dhyifsj.xn--pp5aa2sb.com #UK-联通
   - DOMAIN,us.pilifun.top #US-联通
   - DOMAIN,otto.pilipili.club #VN-电信
+  - DOMAIN,wawohk4837.pilifun.top #HK-wawo4837
+  - DOMAIN,cerahk.pilipili.club #HK-cere
+  - DOMAIN,netcupde.pilipili.club #DE-netcup
 #  - DOMAIN-SUFFIX,ycxdy.top
   - DOMAIN,emby.029902.xyz #US-rn-电信
   - DOMAIN,emby2.029902.xyz #DE-bage-联通
