@@ -4,6 +4,11 @@ payload:
 #  - PROCESS-NAME,com.sohu.inputmethod.sogou.samsung
 #  - PROCESS-NAME,com.sohu.inputmethod.sogou.xiaomi
 #  - PROCESS-NAME,com.huawei.ohos.inputmethod
+  - DOMAIN,t1.daumcdn.net
+  - DOMAIN,p1-play.edge4k.com
+  - DOMAIN,play.kakao.com
+  - DOMAIN,stat.tiara.kakao.com
+  - DOMAIN,status.thawte.com
   - DOMAIN,black.qimo.ink
 #0919.20.17
   - DOMAIN-REGEX,^[a-z0-9.-]*pitaya\.bytetos\.com$
