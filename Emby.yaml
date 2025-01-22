@@ -1,6 +1,8 @@
 payload:
   - DOMAIN,rargb.to
   - DOMAIN,lite.saturday.video
+  - DOMAIN-SUFFIX,niceduck.lol
+  - DOMAIN-SUFFIX,emby.moe
 #劳大
   - DOMAIN,emby-mica-us-v1.mius.uk
   - DOMAIN,emby-micax-ca-v2.mius.uk
