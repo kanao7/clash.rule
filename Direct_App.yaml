@@ -61,6 +61,7 @@ payload:
   - PROCESS-NAME,com.tmri.app.main #交管12123
   - PROCESS-NAME,com.unionpay #云闪付
   - PROCESS-NAME,com.xiaomi.router #小米WiFi
+  - PROCESS-NAME,com.xiachufang #下厨房
   - PROCESS-NAME,com.xiaomi.smarthome #米家
   - PROCESS-NAME,com.xingin.xhs #小红书
   - PROCESS-NAME,com.xunlei.downloadprovider #迅雷
