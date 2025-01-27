@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,deepseek.com
+  - PROCESS-NAME,com.deepseek.chat
   - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,openai.com
