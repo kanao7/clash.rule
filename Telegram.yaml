@@ -49,3 +49,6 @@ payload:
   - PROCESS-NAME,telegram-desktop
   - PROCESS-NAME,tw.nekomimi.nekogram
   - PROCESS-NAME,materialgram.exe
+  - PROCESS-NAME,AyuGram.exe
+  - PROCESS-NAME,nu.gpu.nagram
+  - PROCESS-NAME,xyz.nextalone.nagram
