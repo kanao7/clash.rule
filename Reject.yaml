@@ -4,7 +4,6 @@ payload:
 #  - PROCESS-NAME,com.sohu.inputmethod.sogou.samsung
 #  - PROCESS-NAME,com.sohu.inputmethod.sogou.xiaomi
 #  - PROCESS-NAME,com.huawei.ohos.inputmethod
-  - DOMAIN-SUFFIX,i2.chuimg.com
   - DOMAIN-SUFFIX,getui.net
   - DOMAIN-SUFFIX,gepush.com
   - DOMAIN-SUFFIX,getui.com
