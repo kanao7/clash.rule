@@ -4,6 +4,24 @@ payload:
 #  - PROCESS-NAME,com.sohu.inputmethod.sogou.samsung
 #  - PROCESS-NAME,com.sohu.inputmethod.sogou.xiaomi
 #  - PROCESS-NAME,com.huawei.ohos.inputmethod
+#porn
+  - DOMAIN-SUFFIX,hanime1.com
+  - DOMAIN-SUFFIX,hanime1.me
+  - DOMAIN-SUFFIX,18comic.vip
+  - DOMAIN-SUFFIX,91porn.com
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,xvideos.com
+  - DOMAIN-SUFFIX,porndude.com
+  - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-SUFFIX,javbus.com
+  - DOMAIN-SUFFIX,hacg.dog
+  - DOMAIN-SUFFIX,picacomic.com
+  - DOMAIN-SUFFIX,sukebei.nyaa.si
+  - DOMAIN-SUFFIX,acgbox.link
+  - DOMAIN-SUFFIX,asmrgay.com
+  - DOMAIN-SUFFIX,asmr-300.com
+  - DOMAIN-SUFFIX,2dfan.com
+  #
   - DOMAIN-SUFFIX,getui.net
   - DOMAIN-SUFFIX,gepush.com
   - DOMAIN-SUFFIX,getui.com
