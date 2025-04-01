@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN,www.bilinovel.com
+  - DOMAIN,www.linovelib.com
   - DOMAIN,services.googleapis.cn
   - DOMAIN,speech.platform.bing.com
   - DOMAIN,bing.com
