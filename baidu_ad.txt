@@ -1,10 +1,4 @@
 ! Title: baidu_ad
-18comic.vip##.c835e-33_e_sticky2
-18comic.vip##.c835e-33_e
-www.javbus.com##.all-top
-www.javbus.com##.ad-box
-www.ghxi.com##div[style="padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: 99;background-color: #cc4444;color: #fff"]
-wap.mail.qq.com##.download_container
 !屏蔽搜索结果网站
 !baidu.com##[data-log*="csdn.net"]
 !百度自动播放视频
