@@ -1,5 +1,6 @@
 payload:
   - DOMAIN,rargb.to
+  - DOMAIN,misty,cx
   - DOMAIN,lite.saturday.video
   - DOMAIN-SUFFIX,niceduck.lol
   - DOMAIN-SUFFIX,emby.moe
