@@ -100,3 +100,6 @@ www.baidu.com##[tpl^="jy"]
 www.baidu.com##[tpl^="live_"]
 m.baidu.com##[tpl^="live_"]
 m.baidu.com##[class="c-atom-afterclick-recomm-wrap"]
+!知了爱学
+www.baidu.com##[mu*="localsite.baidu.com"], [mu*="xue.baidu.com"], [mu*="aistudy.baidu.com"]
+m.baidu.com##[data-log*="localsite.baidu.com"], [data-log*="xue.baidu.com"], [data-log*="aistudy.baidu.com"]
