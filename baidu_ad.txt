@@ -39,8 +39,8 @@ baidu.com##[srcid^="med_"], [tpl^="med_"]
 !资讯
 !baidu.com##[srcid^="realtime"]
 !百家号
-www.baidu.com##[tpl="guanfanghao"], [tpl^="bjh_"]
-m.baidu.com##[tpl="guanfanghao"], [tpl^="bjh_"]
+www.baidu.com##[tpl="guanfanghao"], [tpl^="bjh_"], [mu*="baijiahao.baidu.com"], [mu*="mbd.baidu.com"]
+m.baidu.com##[tpl="guanfanghao"], [tpl^="bjh_"], [data-log*="baijiahao.baidu.com"], [data-log*="mbd.baidu.com"]
 !百度动态
 baidu.com##[srcid^="rel_ugc_san"]
 !百度优选
@@ -73,7 +73,7 @@ www.baidu.com##[srcid$="_list"], [tpl$="_list"]
 !百度侧栏
 www.baidu.com##[id="content_right"]
 !好看视频
-baidu.com##[tpl="short_video"]
+baidu.com##[tpl="short_video"], [tpl="se_st_single_video_zhanzhang"]
 !文心智能体
 www.baidu.com##[tpl^="ai_agent"]
 m.baidu.com##[tpl^="ai_agent"]
