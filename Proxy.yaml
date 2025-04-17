@@ -3,8 +3,8 @@ payload:
   - DOMAIN,www.linovelib.com
   - DOMAIN,services.googleapis.cn
   - DOMAIN,speech.platform.bing.com
-  - DOMAIN,bing.com
-  - DOMAIN,wwww.bing.com
+#  - DOMAIN,bing.com
+#  - DOMAIN,wwww.bing.com
 #  - DOMAIN-SUFFIX,bing.com.cn
   - DOMAIN,metacubex.one
   - DOMAIN,mikanani.me
