@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,wwww.bing.com
   - DOMAIN-SUFFIX,mikanime.tv
   - DOMAIN-SUFFIX,dandanplay.net
   - DOMAIN-SUFFIX,jxlibrary.net
