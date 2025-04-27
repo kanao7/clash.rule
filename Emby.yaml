@@ -5,10 +5,11 @@ payload:
   - DOMAIN-SUFFIX,mega.nz
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN,rargb.to
+#emby
   - DOMAIN,misty.cx
   - DOMAIN,lite.saturday.video
-  - DOMAIN-SUFFIX,niceduck.lol
-  - DOMAIN-SUFFIX,emby.moe
+  - DOMAIN-SUFFIX,niceduck.lol #niceduck
+  - DOMAIN-SUFFIX,emby.moe #nicedick
 #劳大
   - DOMAIN,emby-mica-us-v1.mius.uk
   - DOMAIN,emby-micax-ca-v2.mius.uk
@@ -23,22 +24,10 @@ payload:
 #TreeDiagram
   - DOMAIN,789.123456.al #cf
 #pilipili
-  - DOMAIN,pilipili.club
   - DOMAIN,emby.pilipiliultra.com
   - DOMAIN,streamer-cf.pilipiliultra.com
-  - DOMAIN,stream_pilipili.misakaf.org
-  - DOMAIN,pilipili.misakaf.org
-#misakaf
-  - DOMAIN,emby.aca.best
-  - DOMAIN,aca.misakaf.org
-  - DOMAIN,stream1.misakaf.org
-  - DOMAIN,stream2.misakaf.org
-  - DOMAIN,stream3.misakaf.org
-  - DOMAIN,stream4.misakaf.org
-  - DOMAIN-SUFFIX,misakaf.org
-  - DOMAIN,emby-misakaf.atomlantis.cloud
+  - DOMAIN-SUFFIX,pilipiliultra.com
 #zdz
-#  - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN,pub1.term.wtf #cf
   - DOMAIN,pub2.term.wtf
   - DOMAIN,pub3.term.wtf
