@@ -6,15 +6,15 @@ payload:
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN,rargb.to
 #emby
-  - DOMAIN,misty.cx
-  - DOMAIN,lite.saturday.video
+  - DOMAIN,misty.cx #misty
+  - DOMAIN,lite.saturdayvideo.top #saturday
   - DOMAIN-SUFFIX,niceduck.lol #niceduck
   - DOMAIN-SUFFIX,emby.moe #nicedick
 #劳大
   - DOMAIN,emby-mica-us-v1.mius.uk
   - DOMAIN,emby-micax-ca-v2.mius.uk
 #纸片人
-  - DOMAIN,embyplus.org #cf
+  - DOMAIN,embyplus.org #cf前端
   - DOMAIN,emby.embyplus.org
   - DOMAIN,stream.9521732.xyz
   - DOMAIN,gd.9521732.xyz
@@ -32,9 +32,9 @@ payload:
   - DOMAIN,pub2.term.wtf
   - DOMAIN,pub3.term.wtf
 #cc
-  - DOMAIN,cc.coemn.com
-  - DOMAIN,cc.embycc.link #cf
-  - DOMAIN,cc.carryz.net
+  - DOMAIN,cc.coemn.com #龟壳前端
+  - DOMAIN,cc.embycc.link #cf前端
+  - DOMAIN,cc.carryz.net #推流
 #lyrebird
   - DOMAIN,cdn.lyrebirdemby.com #cf
 #embyapp
