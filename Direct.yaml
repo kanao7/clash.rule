@@ -7,8 +7,8 @@ payload:
   - DOMAIN,www.gstatic.com
   - DOMAIN,yxvm.com
 #Emby_Direct
-  - DOMAIN,cdn.lyrebirdemby.com
-  - DOMAIN,lite.saturdayvideo.top
+#  - DOMAIN,cdn.lyrebirdemby.com
+#  - DOMAIN,lite.saturdayvideo.top
   - DOMAIN,pub1.emby.wtf
   - DOMAIN,pub2.emby.wtf
   - DOMAIN,pub3.emby.wtf
