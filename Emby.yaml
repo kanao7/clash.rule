@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN,rargb.to
 #emby
+  - DOMAIN,emby1.123456789.lol
   - DOMAIN,pornemby.com
   - DOMAIN,misty.cx #misty
   - DOMAIN,lite.saturdayvideo.top #saturday
