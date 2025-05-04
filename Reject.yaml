@@ -12,8 +12,8 @@ payload:
 #  - DOMAIN-SUFFIX,pornhub.com
 #  - DOMAIN-SUFFIX,xvideos.com
 #  - DOMAIN-SUFFIX,porndude.com
-#  - DOMAIN-SUFFIX,jable.tv
-#  - DOMAIN-SUFFIX,javbus.com
+#  - DOMAIN-SUFFIX,jable.tv  
+#  - DOMAIN-SUFFIX,javbus.com  
 #  - DOMAIN-SUFFIX,hacg.dog
 #  - DOMAIN-SUFFIX,picacomic.com
 #  - DOMAIN-SUFFIX,sukebei.nyaa.si
@@ -21,11 +21,13 @@ payload:
 #  - DOMAIN-SUFFIX,asmrgay.com
 #  - DOMAIN-SUFFIX,asmr-300.com
 #  - DOMAIN-SUFFIX,2dfan.com
+  - DOMAIN-REGEX,^ads[a-zA-Z0-9-]*\.xhscdn\.com$
+  - DOMAIN-REGEX,^sns-video[a-zA-Z0-9-]*\.xhscdn\.com$
   - DOMAIN,ads.raidrive.com
   - DOMAIN-SUFFIX,getui.net
   - DOMAIN-SUFFIX,gepush.com
   - DOMAIN-SUFFIX,getui.com
-  - DOMAIN,pgdt.ugdtimg.com
+  - DOMAIN,pgdt.ugdtimg.com  
   - DOMAIN,t1.daumcdn.net
   - DOMAIN,p1-play.edge4k.com
   - DOMAIN,p2-play.edge4k.com
