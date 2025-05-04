@@ -22,7 +22,6 @@ payload:
 #  - DOMAIN-SUFFIX,asmr-300.com
 #  - DOMAIN-SUFFIX,2dfan.com
   - DOMAIN-REGEX,^ads[a-zA-Z0-9-]*\.xhscdn\.com$
-  - DOMAIN-REGEX,^sns-video[a-zA-Z0-9-]*\.xhscdn\.com$
   - DOMAIN,ads.raidrive.com
   - DOMAIN-SUFFIX,getui.net
   - DOMAIN-SUFFIX,gepush.com
