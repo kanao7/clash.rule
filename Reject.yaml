@@ -21,7 +21,7 @@ payload:
 #  - DOMAIN-SUFFIX,asmrgay.com
 #  - DOMAIN-SUFFIX,asmr-300.com
 #  - DOMAIN-SUFFIX,2dfan.com
-  #
+  - DOMAIN,ads.raidrive.com
   - DOMAIN-SUFFIX,getui.net
   - DOMAIN-SUFFIX,gepush.com
   - DOMAIN-SUFFIX,getui.com
