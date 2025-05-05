@@ -21,11 +21,13 @@ payload:
 #  - DOMAIN-SUFFIX,asmrgay.com
 #  - DOMAIN-SUFFIX,asmr-300.com
 #  - DOMAIN-SUFFIX,2dfan.com
+##
+  - DOMAIN,ads-img-al.xhscdn.com
   - DOMAIN,ads.raidrive.com
   - DOMAIN-SUFFIX,getui.net
   - DOMAIN-SUFFIX,gepush.com
-  - DOMAIN-SUFFIX,getui.com
-  - DOMAIN,pgdt.ugdtimg.com  
+#  - DOMAIN-SUFFIX,getui.com
+#  - DOMAIN,pgdt.ugdtimg.com
   - DOMAIN,t1.daumcdn.net
   - DOMAIN,p1-play.edge4k.com
   - DOMAIN,p2-play.edge4k.com
@@ -61,10 +63,10 @@ payload:
   - DOMAIN-SUFFIX,telecome.cn
 #  - DOMAIN-SUFFIX,umeng.com
   - DOMAIN-SUFFIX,unioncom.cc
-  - DOMAIN-SUFFIX,vcs.zijieapi.com
-  - DOMAIN-SUFFIX,wcp.taobao.com
-  - DOMAIN-SUFFIX,webcast5-open-lf.douyin.com
-  - DOMAIN-SUFFIX,webcast-open.douyin.com
+#  - DOMAIN-SUFFIX,vcs.zijieapi.com
+#  - DOMAIN-SUFFIX,wcp.taobao.com
+#  - DOMAIN-SUFFIX,webcast5-open-lf.douyin.com
+#  - DOMAIN-SUFFIX,webcast-open.douyin.com
 #PCDN_noodssek
   - DOMAIN-SUFFIX,szbdyd.com
   - DOMAIN-SUFFIX,mcdn.bilivideo.cn
