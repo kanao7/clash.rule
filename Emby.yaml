@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN,rargb.to
 #emby
+  - DOMAIN,hka-emby3.aliz.work
   - DOMAIN,emby1.123456789.lol
   - DOMAIN,pornemby.com
   - DOMAIN,misty.cx #misty
@@ -40,6 +41,7 @@ payload:
 #lyrebird
   - DOMAIN,cdn.lyrebirdemby.com #cf
 #embyapp
+  - PROCESS-NAME,hills.exe
   - PROCESS-NAME,Emby.Theater.exe
   - PROCESS-NAME,electron.exe
   - PROCESS-NAME,tsukimi.exe
