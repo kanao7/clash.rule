@@ -6,6 +6,15 @@ payload:
 #  - PROCESS-NAME,com.huawei.ohos.inputmethod
 ##20250510
   - AND,((PROCESS-NAME,com.dragon.read),(NOT,((OR,((DOMAIN-SUFFIX,fqnovel.com),(DOMAIN-SUFFIX,fqnovelpic.com))))))
+  - DOMAIN-SUFFIX,byteeffecttos.com
+  - DOMAIN-SUFFIX,0kkkkkt.com
+  - DOMAIN-SUFFIX,cjjd14.com
+  - DOMAIN-SUFFIX,siomxity.net
+  - DOMAIN-SUFFIX,vegslb.com
+  - DOMAIN-SUFFIX,homeborn.cn
+  - DOMAIN-SUFFIX,ietheivaicai.com
+  - DOMAIN-SUFFIX,qtaeixd.com
+  - DOMAIN-SUFFIX,ecombdimg.com
 ##
   - DOMAIN-SUFFIX,getui.net
   - DOMAIN-SUFFIX,gepush.com
