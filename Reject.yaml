@@ -5,7 +5,8 @@ payload:
 #  - PROCESS-NAME,com.sohu.inputmethod.sogou.xiaomi
 #  - PROCESS-NAME,com.huawei.ohos.inputmethod
 ##20250510
-  - AND,((PROCESS-NAME,com.dragon.read),(NOT,((OR,((DOMAIN-SUFFIX,fqnovel.com),(DOMAIN-SUFFIX,snssdk.com),(DOMAIN-SUFFIX,byteimg.com),(DOMAIN-SUFFIX,fqnovelpic.com))))))
+bytedanceapi.com fqnovelstatic.com  lf-cdn-tos.bytescm.com
+  - AND,((PROCESS-NAME,com.dragon.read),(NOT,((OR,((DOMAIN-SUFFIX,bytedanceapi.com),(DOMAIN-SUFFIX,fqnovelstatic.com),(DOMAIN-SUFFIX,bytescm.com),(DOMAIN-SUFFIX,fqnovel.com),(DOMAIN-SUFFIX,snssdk.com),(DOMAIN-SUFFIX,byteimg.com),(DOMAIN-SUFFIX,fqnovelpic.com))))))
   - DOMAIN-SUFFIX,byteeffecttos.com
   - DOMAIN-SUFFIX,0kkkkkt.com
   - DOMAIN-SUFFIX,cjjd14.com
@@ -15,6 +16,10 @@ payload:
   - DOMAIN-SUFFIX,ietheivaicai.com
   - DOMAIN-SUFFIX,qtaeixd.com
   - DOMAIN-SUFFIX,ecombdimg.com
+  - DOMAIN-SUFFIX,p9-ad-sign.byteimg.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
+  - DOMAIN-REGEX,^ads[a-z0-9.-]*\.zijieapi\.com
+  
 ##
   - DOMAIN-SUFFIX,getui.net
   - DOMAIN-SUFFIX,gepush.com
@@ -48,7 +53,7 @@ payload:
   - DOMAIN-SUFFIX,telecome.cn
 #  - DOMAIN-SUFFIX,umeng.com
   - DOMAIN-SUFFIX,unioncom.cc
-#  - DOMAIN-SUFFIX,vcs.zijieapi.com
+  - DOMAIN-SUFFIX,vcs.zijieapi.com
 #  - DOMAIN-SUFFIX,wcp.taobao.com
 #  - DOMAIN-SUFFIX,webcast5-open-lf.douyin.com
 #  - DOMAIN-SUFFIX,webcast-open.douyin.com
