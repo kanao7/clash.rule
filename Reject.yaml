@@ -22,8 +22,11 @@ payload:
   - DOMAIN-SUFFIX,pglstatp-toutiao.com
   - DOMAIN-REGEX,^ads[a-z0-9.-]*\.zijieapi\.com
 ##
-  - DOMAIN-SUFFIX,getui.net
   - DOMAIN-SUFFIX,gepush.com
+  - DOMAIN-SUFFIX,getui.cn
+  - DOMAIN-SUFFIX,getui.com
+  - DOMAIN-SUFFIX,getui.net
+  - DOMAIN-SUFFIX,igexin.com
   - DOMAIN,t1.daumcdn.net
   - DOMAIN,p1-play.edge4k.com
   - DOMAIN,p2-play.edge4k.com
