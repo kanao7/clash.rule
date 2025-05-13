@@ -5,8 +5,9 @@ payload:
 #  - PROCESS-NAME,com.sohu.inputmethod.sogou.xiaomi
 #  - PROCESS-NAME,com.huawei.ohos.inputmethod
 ##20250510
-  - AND,((PROCESS-NAME,com.dragon.read),(NOT,((OR,((DOMAIN-REGEX,v(26|3)-fq-tts\.fqnovelvod\.com),(DOMAIN-SUFFIX,fqnovelstatic.com),(DOMAIN-SUFFIX,fqnovel.com),(DOMAIN-SUFFIX,snssdk.com),(DOMAIN-SUFFIX,byteimg.com),(DOMAIN-SUFFIX,fqnovelpic.com))))))
-  - DOMAIN-SUFFIX,byteeffecttos.com #(DOMAIN-SUFFIX,bytescm.com),(DOMAIN-SUFFIX,bytedanceapi.com),
+  - AND,((PROCESS-NAME,com.coolapk.market),(NOT,((OR,((DOMAIN-SUFFIX,coolapk.com),(DOMAIN-SUFFIX,tpns.tencent.com))))))
+  - AND,((PROCESS-NAME,com.dragon.read),(NOT,((OR,((DOMAIN-REGEX,v(26|3)-fq-tts\.fqnovelvod\.com),(DOMAIN-SUFFIX,fqnovelstatic.com),(DOMAIN-SUFFIX,fqnovel.com),(DOMAIN-SUFFIX,byteimg.com),(DOMAIN-SUFFIX,fqnovelpic.com))))))
+  - DOMAIN-SUFFIX,byteeffecttos.com #(DOMAIN-SUFFIX,bytescm.com),(DOMAIN-SUFFIX,bytedanceapi.com),(DOMAIN-SUFFIX,snssdk.com)
   - DOMAIN-SUFFIX,0kkkkkt.com
   - DOMAIN-SUFFIX,cjjd14.com
   - DOMAIN-SUFFIX,siomxity.net
