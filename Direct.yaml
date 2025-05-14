@@ -10,6 +10,4 @@ payload:
 #Emby_Direct
 #  - DOMAIN,cdn.lyrebirdemby.com
 #  - DOMAIN,lite.saturdayvideo.top
-  - DOMAIN,pub1.emby.wtf
-  - DOMAIN,pub2.emby.wtf
-  - DOMAIN,pub3.emby.wtf
+  - DOMAIN-SUFFIX,emby.wtf
