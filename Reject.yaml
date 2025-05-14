@@ -19,7 +19,6 @@ payload:
   - DOMAIN-SUFFIX,qtaeixd.com
   - DOMAIN-SUFFIX,ecombdimg.com
   - DOMAIN-SUFFIX,p9-ad-sign.byteimg.com
-  - DOMAIN-SUFFIX,pglstatp-toutiao.com
   - DOMAIN-REGEX,^ads[a-z0-9.-]*\.zijieapi\.com
 ##
   - DOMAIN-SUFFIX,gepush.com
