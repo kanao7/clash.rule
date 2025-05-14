@@ -9,13 +9,13 @@ payload:
 #  - DOMAIN-SUFFIX,bing.com.cn
   - DOMAIN,metacubex.one
   - DOMAIN,mikanani.me
-  - DOMAIN,store.steampowered.com
-  - DOMAIN,steamcommunity.com
-  - DOMAIN,onedrive.live.com
+#  - DOMAIN,store.steampowered.com
+#  - DOMAIN,steamcommunity.com
+#  - DOMAIN,onedrive.live.com
   - DOMAIN,2dfan.com
   - DOMAIN,acgbox.link
   - DOMAIN-SUFFIX,happymh.com
-  - DOMAIN,query.wikidata.org
+#  - DOMAIN,query.wikidata.org
   - DOMAIN,machbbs.com
   - DOMAIN,one.one.one.one
   - DOMAIN,xn--6nq44r2uh9rhj7f.com
@@ -23,4 +23,4 @@ payload:
   - DOMAIN,www.aca.best
   - DOMAIN,dadada.acaisbest.com
   - DOMAIN,dash.yfjc.xyz
-  - DOMAIN,qbittorrent.org
+#  - DOMAIN,qbittorrent.org
