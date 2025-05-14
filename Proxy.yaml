@@ -7,7 +7,7 @@ payload:
 #  - DOMAIN,bing.com
 #  - DOMAIN,wwww.bing.com
 #  - DOMAIN-SUFFIX,bing.com.cn
-  - DOMAIN,metacubex.one
+#  - DOMAIN,metacubex.one
   - DOMAIN,mikanani.me
 #  - DOMAIN,store.steampowered.com
 #  - DOMAIN,steamcommunity.com
@@ -20,7 +20,5 @@ payload:
   - DOMAIN,one.one.one.one
   - DOMAIN,xn--6nq44r2uh9rhj7f.com
   - DOMAIN,proxyinfo.net
-  - DOMAIN,www.aca.best
-  - DOMAIN,dadada.acaisbest.com
   - DOMAIN,dash.yfjc.xyz
 #  - DOMAIN,qbittorrent.org
