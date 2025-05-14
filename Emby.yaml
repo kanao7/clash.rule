@@ -7,7 +7,7 @@ payload:
   - DOMAIN,rargb.to
 #emby
   - DOMAIN,bps8m.onyra.cc
- - DOMAIN,stream.onyra.uk
+  - DOMAIN,stream.onyra.uk
   - DOMAIN,hka-emby3.aliz.work
   - DOMAIN,emby1.123456789.lol
   - DOMAIN,pornemby.com
