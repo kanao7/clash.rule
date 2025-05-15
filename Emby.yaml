@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN,rargb.to
 #emby
+  - DOMAIN,emby.violet.run
   - DOMAIN,bps8m.onyra.cc
   - DOMAIN,stream.onyra.uk
   - DOMAIN,hka-emby3.aliz.work
