@@ -8,6 +8,10 @@ payload:
   - DOMAIN,www.gstatic.com
   - DOMAIN,yxvm.com
 #Emby_Direct
-#  - DOMAIN,cdn.lyrebirdemby.com
-#  - DOMAIN,lite.saturdayvideo.top
-  - DOMAIN-SUFFIX,emby.wtf
+#  - DOMAIN,cdn.lyrebirdemby.com #lyrebird cf
+#  - DOMAIN,lite.saturdayvideo.top #saturday
+#  - DOMAIN,cf.imetyou.top #paul cf
+#  - DOMAIN,emby1.123456789.lol #cinetrail cf
+#  - DOMAIN-SUFFIX,emby.wtf
+#  - DOMAIN,emby.violet.run #violet cf
+#  - DOMAIN,media.nijigem.by #nijigen cf
