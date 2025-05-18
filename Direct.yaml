@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN,gh-proxy.com
+  - DOMAIN-SUFFIX,gh-proxy.com
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,kanao.dpdns.org
   - DOMAIN,www.bing.com
