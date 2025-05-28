@@ -9,6 +9,13 @@ payload:
   - DOMAIN,www.gstatic.com
   - DOMAIN,yxvm.com
 #Emby_Direct
+  - DOMAIN,pili.994959.xyz #claw hk
+  - DOMAIN,caddy.pilipili.me #huawei sg
+  - DOMAIN,pili.im #bwg us
+  - DOMAIN,hk.violet.run #yxvm hk
+  - DOMAIN,wvip-woxjsjd.violet.run #yxvm jp
+  - IP-CIDR,46.3.109.178/32,no-resolve #yxvm hk
+  - IP-CIDR,8.210.125.129/32,no-resolve #claw hk
 #  - DOMAIN,cdn.lyrebirdemby.com #lyrebird cf
 #  - DOMAIN,lite.saturdayvideo.top #saturday
 #  - DOMAIN,cf.imetyou.top #paul cf
