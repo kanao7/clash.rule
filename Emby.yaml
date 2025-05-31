@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN,rargb.to
 #emby
+  - DOMAIN,emby.nebula-media.org #nebula cf
   - DOMAIN,emby.bangumi.ca #nya cf
   - DOMAIN,media.nijigem.by #nijigen cf
   - DOMAIN,tanhuatv.site #tanhua cf
