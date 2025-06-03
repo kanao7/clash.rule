@@ -48,6 +48,7 @@ payload:
 #lyrebird
   - DOMAIN,cdn.lyrebirdemby.com #cf
 #embyapp
+  - PROCESS-NAME,hills_desktop.exe
   - PROCESS-NAME,hills.exe
   - PROCESS-NAME,Emby.Theater.exe
   - PROCESS-NAME,electron.exe
