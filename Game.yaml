@@ -8,6 +8,8 @@
 # IP-CIDR: 46
 # TOTAL: 597
 payload:
+  - PROCESS-NAME,steam.exe
+  - PROCESS-NAME,steamwebhelper.exe
   - DOMAIN,eaasserts-a.akamaihd.net
   - DOMAIN,originasserts.akamaized.net
   - DOMAIN,gog.salesmanago.com
