@@ -1,13 +1,67 @@
-# NAME: YouTube
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:14:51
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 179
-# IP-CIDR: 2
-# IP-CIDR6: 1
-# TOTAL: 183
 payload:
+#Drive
+  - DOMAIN,drive.usercontent.google.com
+  - DOMAIN-SUFFIX,mega.co.nz
+  - DOMAIN-SUFFIX,mega.io
+  - DOMAIN-SUFFIX,mega.nz
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN,rargb.to
+#Emby
+  - DOMAIN,emby.nebula-media.org #nebula cf
+  - DOMAIN-SUFFIX,nebula-media.org
+  - DOMAIN,emby.bangumi.ca #nya cf
+  - DOMAIN,media.nijigem.by #nijigen cf
+  - DOMAIN,tanhuatv.site #tanhua cf
+  - DOMAIN,emby.violet.run #violet cf
+  - DOMAIN,bps8m.onyra.cc #onyra cf
+  - DOMAIN,stream.onyra.uk #onyra cf 推流
+  - DOMAIN,hka-emby3.aliz.work #hka
+  - DOMAIN,emby1.123456789.lol #cinetrail cf
+  - DOMAIN,pornemby.com
+  - DOMAIN,misty.cx #misty
+  - DOMAIN,lite.saturdayvideo.top #saturday
+  - DOMAIN-SUFFIX,niceduck.lol #niceduck
+  - DOMAIN-SUFFIX,emby.moe #nicedick
+#劳大
+  - DOMAIN,emby-mica-us-v1.mius.uk
+  - DOMAIN,emby-micax-ca-v2.mius.uk
+#纸片人
+  - DOMAIN,embyplus.org #cf前端
+  - DOMAIN,emby.embyplus.org
+  - DOMAIN,stream.9521732.xyz
+  - DOMAIN,gd.9521732.xyz
+  - DOMAIN-SUFFIX,9521732.xyz
+#paul
+  - DOMAIN,cf.imetyou.top #cf
+#TreeDiagram
+  - DOMAIN,789.123456.al #cf
+#pilipili
+  - DOMAIN,emby.pilipiliultra.com #cf
+  - DOMAIN,streamer-cf.pilipiliultra.com #cf
+  - DOMAIN-SUFFIX,pilipiliultra.com
+#zdz
+  - DOMAIN,pub1.term.wtf #cf
+  - DOMAIN,pub2.term.wtf
+  - DOMAIN,pub3.term.wtf
+#cc
+  - DOMAIN,cc.coemn.com #龟壳前端
+  - DOMAIN,cc.embycc.link #cf前端
+  - DOMAIN,cc.carryz.net #龟壳推流
+#lyrebird
+  - DOMAIN,cdn.lyrebirdemby.com #cf
+#embyapp
+  - PROCESS-NAME,hills_desktop.exe
+  - PROCESS-NAME,hills.exe
+  - PROCESS-NAME,Emby.Theater.exe
+  - PROCESS-NAME,electron.exe
+  - PROCESS-NAME,tsukimi.exe
+  - PROCESS-NAME,com.hush.yamby
+  - PROCESS-NAME,com.mountains.hills
+  - PROCESS-NAME,work.aliz.femor
+  - PROCESS-NAME,com.mb.android
+  - PROCESS-NAME,com.themby.themby
+#
+#YouTube
   - DOMAIN-SUFFIX,ggpht.cn
   - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,googlevideo.com
@@ -196,3 +250,27 @@ payload:
   - PROCESS-NAME,anddea.youtube
   - PROCESS-NAME,com.google.android.apps.youtube.music
   - PROCESS-NAME,anddea.youtube.music
+#
+#Twitch
+  - DOMAIN-SUFFIX,ext-twitch.tv
+  - DOMAIN-SUFFIX,jtvnw.net
+  - DOMAIN-SUFFIX,live-video.net
+  - DOMAIN-SUFFIX,ttvnw.net
+  - DOMAIN-SUFFIX,twitch-ext.rootonline.de
+  - DOMAIN-SUFFIX,twitch.tv
+  - DOMAIN-SUFFIX,twitchcdn.net
+  - DOMAIN-SUFFIX,twitchsvc.net
+  - DOMAIN-KEYWORD,ttvnw
+  - IP-CIDR,103.53.48.0/23,no-resolve
+  - IP-CIDR,185.42.204.0/22,no-resolve
+  - IP-CIDR,192.108.239.0/24,no-resolve
+  - IP-CIDR,192.16.64.0/21,no-resolve
+  - IP-CIDR,199.9.248.0/21,no-resolve
+  - IP-CIDR,23.160.0.0/24,no-resolve
+  - IP-CIDR,45.113.128.0/22,no-resolve
+  - IP-CIDR,52.223.192.0/20,no-resolve
+  - IP-CIDR,52.223.208.0/21,no-resolve
+  - IP-CIDR,52.223.224.0/19,no-resolve
+  - IP-CIDR,99.181.64.0/18,no-resolve
+  - IP-CIDR6,2402:2a80::/32,no-resolve
+  - PROCESS-NAME,tv.twitch.android.app
