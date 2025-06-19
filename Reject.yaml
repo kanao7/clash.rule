@@ -3,10 +3,16 @@ payload:
 #  - PROCESS-NAME,com.sohu.inputmethod.sogou.meizu
 #  - PROCESS-NAME,com.sohu.inputmethod.sogou.samsung
 #  - PROCESS-NAME,com.sohu.inputmethod.sogou.xiaomi
-#  - PROCESS-NAME,com.huawei.ohos.inputmethod
+#  - PROCESS-NAME,com.huawei.ohos.inputmethodadx.ads.heytapmobi.com 
+##20250619
+- DOMAIN,event.dc.oppomobile.com 
+- DOMAIN,cc-algo-cn.heytapimage.com 
+- DOMAIN,adsfs.heytapimage.com   
+- DOMAIN,cc-img-cn.heytapimage.com 
+- DOMAIN,ibrowser.feeds.heytapmobi.com
 ##20250510
   - AND,((PROCESS-NAME,com.xiachufang),(NOT,((OR,((DOMAIN-SUFFIX,xiachufang.com),(DOMAIN-SUFFIX,chuimg.com))))))
-#  - AND,((PROCESS-NAME,com.ximalaya.ting.android),(NOT,((OR,((DOMAIN-SUFFIX,ximalaya.com),(DOMAIN-SUFFIX,xmcdn.com))))))
+#  - AND,((PROCESS-NAME,com.ximalaya.ting.android),(NOT,((OR,((DOMAIN-SUFFIX,ximalaya.com),(DOMAIN-SUFFIX,xmcdn.com))))))  
   - AND,((PROCESS-NAME,com.coolapk.market),(NOT,((OR,((DOMAIN-SUFFIX,coolapk.com),(DOMAIN-SUFFIX,tfogc.com),(DOMAIN-SUFFIX,tpns.tencent.com),(DOMAIN-SUFFIX,coolapkmarket.com),(DOMAIN-SUFFIX,pp.myapp.com),(DOMAIN-KEYWORD,imtt))))))
 #  - AND,((PROCESS-NAME,com.dragon.read),(NOT,((OR,((DOMAIN-REGEX,v(26|3)-fq-tts\.fqnovelvod\.com),(DOMAIN-SUFFIX,fqnovelstatic.com),(DOMAIN-SUFFIX,fqnovel.com),(DOMAIN-SUFFIX,byteimg.com),(DOMAIN-SUFFIX,fqnovelpic.com))))))
   - DOMAIN-SUFFIX,byteeffecttos.com #(DOMAIN-SUFFIX,bytescm.com),(DOMAIN-SUFFIX,bytedanceapi.com),(DOMAIN-SUFFIX,snssdk.com)
