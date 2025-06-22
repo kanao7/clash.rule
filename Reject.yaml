@@ -154,7 +154,7 @@ payload:
   - DOMAIN,ipv6-static.dns.iqiyi.com
   - DOMAIN,lofter.httpdns.c.163.com
   - DOMAIN,music.httpdns.c.163.com
-  - DOMAIN,ocloud-httpdns-cn.heytapmobi.com
+#  - DOMAIN,ocloud-httpdns-cn.heytapmobi.com
   - DOMAIN,passport.dns.iqiyi.com
   - DOMAIN,resolver.msg.xiaomi.net
   - DOMAIN,static.dns.qiyipic.iqiyi.com
