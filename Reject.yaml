@@ -5,10 +5,13 @@ payload:
 #  - PROCESS-NAME,com.sohu.inputmethod.sogou.xiaomi
 #  - PROCESS-NAME,com.huawei.ohos.inputmethodadx.ads.heytapmobi.com 
 ##20250619
-  - DOMAIN,event.dc.oppomobile.com 
-  - DOMAIN,cc-algo-cn.heytapimage.com 
-  - DOMAIN,adsfs.heytapimage.com   
-  - DOMAIN,cc-img-cn.heytapimage.com 
+  - DOMAIN-SUFFIX,ads.heytapmobi.com
+  - DOMAIN-SUFFIX,dsfs.oppomobile.com
+  - DOMAIN-SUFFIX,ads.oppomobile.com
+  - DOMAIN,event.dc.oppomobile.com
+  - DOMAIN,cc-algo-cn.heytapimage.com
+  - DOMAIN,adsfs.heytapimage.com
+  - DOMAIN,cc-img-cn.heytapimage.com
   - DOMAIN,ibrowser.feeds.heytapmobi.com
 ##20250510
   - AND,((PROCESS-NAME,com.xiachufang),(NOT,((OR,((DOMAIN-SUFFIX,xiachufang.com),(DOMAIN-SUFFIX,chuimg.com))))))
