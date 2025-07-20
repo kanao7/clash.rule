@@ -12,6 +12,8 @@ payload:
   - DOMAIN,www.gstatic.com
   - DOMAIN,yxvm.com
 #Emby_Direct
+  - DOMAIN,jp.younoyes.com
+  - DOMAIN,us.younoyes.com
   - DOMAIN,pili.994959.xyz #claw hk
   - DOMAIN,caddy.pilipili.me #huawei sg
   - DOMAIN,pili.im #bwg us
