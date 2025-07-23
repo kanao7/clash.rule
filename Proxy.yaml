@@ -1,6 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,manhuagui.com
-  - DOMAIN-SUFFIX,kanao.dpdns.org
+#  - DOMAIN-SUFFIX,kanao.dpdns.org
   - DOMAIN-SUFFIX,assrt.net
   - DOMAIN,www.bilinovel.com
   - DOMAIN,www.linovelib.com
