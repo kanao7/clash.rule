@@ -5,6 +5,7 @@ payload:
 #  - PROCESS-NAME,com.sohu.inputmethod.sogou.xiaomi
 #  - PROCESS-NAME,com.huawei.ohos.inputmethodadx.ads.heytapmobi.com 
 ##20250619
+  - DOMAIN-SUFFIX,internetdownloadmanager.com
   - DOMAIN-SUFFIX,diwodiwo.xyz
   - DOMAIN-SUFFIX,wikawika.xyz
   - DOMAIN-SUFFIX,ads.heytapmobi.com
