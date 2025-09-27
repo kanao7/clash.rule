@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,jianguoyun.com
   - DOMAIN-SUFFIX,gh-proxy.com
 #  - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,zeabur.app
   - DOMAIN-SUFFIX,kanao.dpdns.org
   - DOMAIN,www.bing.com
   - DOMAIN-SUFFIX,mikanime.tv
