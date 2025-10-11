@@ -1,4 +1,5 @@
 payload:
+  - PROCESS-NAME,com.binance.dev
   - DOMAIN-SUFFIX,manhuagui.com
 #  - DOMAIN-SUFFIX,kanao.dpdns.org
   - DOMAIN-SUFFIX,assrt.net
