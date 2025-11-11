@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN,rargb.to
 #Emby
+  - DOMAIN,free.28.al
   - DOMAIN,emby.younoyes.com
   - DOMAIN,lite.cn2gias.uk
   - DOMAIN,zoxfree.3767483.xyz
@@ -53,16 +54,15 @@ payload:
 #lyrebird
   - DOMAIN,cdn.lyrebirdemby.com #cf
 #embyapp
-  - PROCESS-NAME,hills_desktop.exe
-  - PROCESS-NAME,hills.exe
-  - PROCESS-NAME,Emby.Theater.exe
-  - PROCESS-NAME,electron.exe
-  - PROCESS-NAME,tsukimi.exe
-  - PROCESS-NAME,com.hush.yamby
-  - PROCESS-NAME,com.mountains.hills
-  - PROCESS-NAME,work.aliz.femor
-  - PROCESS-NAME,com.mb.android
-  - PROCESS-NAME,com.themby.themby
+#  - PROCESS-NAME,hills_desktop.exe
+#  - PROCESS-NAME,hills.exe
+#  - PROCESS-NAME,Emby.Theater.exe
+#  - PROCESS-NAME,tsukimi.exe
+#  - PROCESS-NAME,com.hush.yamby
+#  - PROCESS-NAME,com.mountains.hills
+#  - PROCESS-NAME,work.aliz.femor
+#  - PROCESS-NAME,com.mb.android
+#  - PROCESS-NAME,com.themby.themby
 #
 #YouTube
   - DOMAIN-SUFFIX,ggpht.cn
