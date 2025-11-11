@@ -1,5 +1,6 @@
 payload:
 #  - DOMAIN-SUFFIX,zeabur.app
+  - DOMAIN-SUFFIX,vecel.app
   - PROCESS-NAME,com.binance.dev
   - DOMAIN-SUFFIX,manhuagui.com
 #  - DOMAIN-SUFFIX,kanao.dpdns.org
