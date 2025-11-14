@@ -7,10 +7,11 @@ payload:
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN,rargb.to
 #Emby
-  - DOMAIN,free3.28.al
+  - DOMAIN,kessoku-bando.biliblili.uk #laoda
+  - DOMAIN,free3.28.al #qidian
   - DOMAIN,emby.younoyes.com
-  - DOMAIN,lite.cn2gias.uk
-  - DOMAIN,zoxfree.3767483.xyz
+  - DOMAIN,lite.cn2gias.uk #sntp
+  - DOMAIN,zoxfree.3767483.xyz #zox
   - DOMAIN,emby.nebula-media.org #nebula cf
   - DOMAIN-SUFFIX,nebula-media.org
   - DOMAIN,emby.bangumi.ca #nya cf
