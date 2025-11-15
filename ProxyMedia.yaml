@@ -7,54 +7,38 @@ payload:
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN,rargb.to
 #Emby
-  - DOMAIN,kessoku-bando.biliblili.uk #laoda
-  - DOMAIN,free3.28.al #qidian
-  - DOMAIN,emby.younoyes.com
-  - DOMAIN,lite.cn2gias.uk #sntp
-  - DOMAIN,zoxfree.3767483.xyz #zox
-  - DOMAIN,emby.nebula-media.org #nebula cf
-  - DOMAIN-SUFFIX,nebula-media.org
-  - DOMAIN,emby.bangumi.ca #nya cf
-  - DOMAIN,media.nijigem.by #nijigen cf
-  - DOMAIN,tanhuatv.site #tanhua cf
-  - DOMAIN,emby.violet.run #violet cf
-  - DOMAIN,bps8m.onyra.cc #onyra cf
-  - DOMAIN,stream.onyra.uk #onyra cf 推流
-  - DOMAIN,hka-emby3.aliz.work #hka
-  - DOMAIN,emby1.123456789.lol #cinetrail cf
-  - DOMAIN,pornemby.com
-  - DOMAIN,misty.cx #misty
-  - DOMAIN,lite.saturdayvideo.top #saturday
-  - DOMAIN-SUFFIX,niceduck.lol #niceduck
-  - DOMAIN-SUFFIX,emby.moe #nicedick
-#劳大
-  - DOMAIN,emby-mica-us-v1.mius.uk
-  - DOMAIN,emby-micax-ca-v2.mius.uk
+  - DOMAIN-SUFFIX,biliblili.uk #laoda
+  - DOMAIN-SUFFIX,28.al #qidian
+  - DOMAIN-SUFFIX,younoyes.com
+  - DOMAIN-SUFFIX,cn2gias.uk #sntp
+  - DOMAIN-SUFFIX,3767483.xyz #zox
+  - DOMAIN-SUFFIX,emby.nebula-media.org #nebula cf
+  - DOMAIN-SUFFIX,bangumi.ca #nya cf
+  - DOMAIN-SUFFIX,nijigem.by #nijigen cf
+  - DOMAIN-SUFFIX,tanhuatv.site #tanhua cf
+  - DOMAIN-SUFFIX,violet.run #violet cf
+  - DOMAIN-SUFFIX,onyra.cc #onyra cf
+  - DOMAIN-SUFFIX,onyra.uk #onyra cf 推流
+  - DOMAIN-SUFFIX,aliz.work #hka
+  - DOMAIN-SUFFIX,123456789.lol #cinetrail cf
+  - DOMAIN-SUFFIX,pornemby.com
+  - DOMAIN-SUFFIX,misty.cx #misty
+  - DOMAIN-SUFFIX,saturdayvideo.top #saturday
 #纸片人
-  - DOMAIN,embyplus.org #cf前端
-  - DOMAIN,stream.embyplus.org
-  - DOMAIN,emby.embyplus.org
-  - DOMAIN,stream.9521732.xyz
-  - DOMAIN,gd.9521732.xyz
+  - DOMAIN-SUFFIX,embyplus.org #cf前端
   - DOMAIN-SUFFIX,9521732.xyz
 #paul
-  - DOMAIN,cf.imetyou.top #cf
-#TreeDiagram
-  - DOMAIN,789.123456.al #cf
+  - DOMAIN-SUFFIX,imetyou.top #cf
 #pilipili
-  - DOMAIN,emby.pilipiliultra.com #cf
-  - DOMAIN,streamer-cf.pilipiliultra.com #cf
   - DOMAIN-SUFFIX,pilipiliultra.com
 #zdz
   - DOMAIN,pub1.term.wtf #cf
   - DOMAIN,pub2.term.wtf
   - DOMAIN,pub3.term.wtf
 #cc
-  - DOMAIN,cc.coemn.com #龟壳前端
-  - DOMAIN,cc.embycc.link #cf前端
-  - DOMAIN,cc.carryz.net #龟壳推流
-#lyrebird
-  - DOMAIN,cdn.lyrebirdemby.com #cf
+  - DOMAIN-SUFFIX,coemn.com #龟壳前端
+  - DOMAIN-SUFFIX,embycc.link #cf前端
+  - DOMAIN-SUFFIX,carryz.net #龟壳推流
 #embyapp
 #  - PROCESS-NAME,hills_desktop.exe
 #  - PROCESS-NAME,hills.exe
