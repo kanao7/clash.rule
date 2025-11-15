@@ -32,6 +32,7 @@ payload:
   - DOMAIN,emby-micax-ca-v2.mius.uk
 #纸片人
   - DOMAIN,embyplus.org #cf前端
+  - DOMAIN,stream.embyplus.org
   - DOMAIN,emby.embyplus.org
   - DOMAIN,stream.9521732.xyz
   - DOMAIN,gd.9521732.xyz
