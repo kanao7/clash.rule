@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,nijigem.by #nijigen cf
   - DOMAIN-SUFFIX,tanhuatv.site #tanhua cf
   - DOMAIN-SUFFIX,violet.run #violet cf
+  - DOMAIN-SUFFIX,5203166.xyz ##violet
   - DOMAIN-SUFFIX,onyra.cc #onyra cf
   - DOMAIN-SUFFIX,onyra.uk #onyra cf 推流
   - DOMAIN-SUFFIX,aliz.work #hka
