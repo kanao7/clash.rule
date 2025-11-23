@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN,rargb.to
 #Emby
+  - DOMAIN-SUFFIX,emos.lol
   - DOMAIN-SUFFIX,biliblili.uk #laoda
   - DOMAIN-SUFFIX,28.al #qidian
   - DOMAIN-SUFFIX,younoyes.com
