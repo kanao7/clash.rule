@@ -1,4 +1,5 @@
 payload:
+  - PROCESS-NAME,com.ss.android.ugc.trill
   - DOMAIN,services.googleapis.cn
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 #  - DOMAIN-SUFFIX,zeabur.app
