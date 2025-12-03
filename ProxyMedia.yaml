@@ -18,7 +18,7 @@ payload:
   - DOMAIN-SUFFIX,nijigem.by #nijigen cf
   - DOMAIN-SUFFIX,tanhuatv.site #tanhua cf
   - DOMAIN-SUFFIX,violet.run #violet cf
-  - DOMAIN-SUFFIX,5203166.xyz ##violet
+  - DOMAIN-SUFFIX,5203166.xyz ##violet de netcup
   - DOMAIN-SUFFIX,onyra.cc #onyra cf
   - DOMAIN-SUFFIX,onyra.uk #onyra cf 推流
   - DOMAIN-SUFFIX,aliz.work #hka
@@ -51,7 +51,6 @@ payload:
 #  - PROCESS-NAME,work.aliz.femor
 #  - PROCESS-NAME,com.mb.android
 #  - PROCESS-NAME,com.themby.themby
-#
 #YouTube
   - DOMAIN-SUFFIX,ggpht.cn
   - DOMAIN-SUFFIX,ggpht.com
