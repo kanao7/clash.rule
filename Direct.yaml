@@ -20,3 +20,4 @@ payload:
   - DOMAIN,ap-cn02.emby.bangumi.ca #nys jp
   - DOMAIN,ap-cn03.emby.bangumi.ca #nya us dmit
   - DOMAIN,ap-cn04.emby.bangumi.ca #nya us dmit
+  - DOMAIN-SUFFIX,cdn.bgp.yt#nijigen cdn
