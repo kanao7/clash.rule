@@ -1,5 +1,6 @@
 payload:
 #Emby
+  - DOMAIN-SUFFIX,okemby.org #okemby cf
   - DOMAIN-SUFFIX,emos.lol #emos cf
   - DOMAIN-SUFFIX,biliblili.uk #laoda
   - DOMAIN-SUFFIX,28.al #qidian
