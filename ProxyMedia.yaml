@@ -1,4 +1,10 @@
 payload:
+#Emby
+  - DOMAIN-SUFFIX,emby.nebula-media.org #nebula cf
+  - DOMAIN-SUFFIX,cn2gias.uk #sntp
+  - DOMAIN-SUFFIX,misty.cx #misty
+  - DOMAIN-SUFFIX,embyplus.org #纸片人 cf前端
+  - DOMAIN-SUFFIX,9521732.xyz #纸片人 后端
 #Drive
   - DOMAIN,drive.usercontent.google.com
   - DOMAIN-SUFFIX,mega.co.nz
@@ -6,51 +12,6 @@ payload:
   - DOMAIN-SUFFIX,mega.nz
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN,rargb.to
-#Emby
-  - DOMAIN-SUFFIX,emos.lol
-  - DOMAIN-SUFFIX,biliblili.uk #laoda
-  - DOMAIN-SUFFIX,28.al #qidian
-  - DOMAIN-SUFFIX,younoyes.com
-  - DOMAIN-SUFFIX,cn2gias.uk #sntp
-  - DOMAIN-SUFFIX,3767483.xyz #zox
-  - DOMAIN-SUFFIX,emby.nebula-media.org #nebula cf
-  - DOMAIN-SUFFIX,bangumi.ca #nya cf
-  - DOMAIN-SUFFIX,nijigem.by #nijigen cf
-  - DOMAIN-SUFFIX,tanhuatv.site #tanhua cf
-  - DOMAIN-SUFFIX,violet.run #violet cf
-  - DOMAIN-SUFFIX,5203166.xyz ##violet de netcup
-  - DOMAIN-SUFFIX,onyra.cc #onyra cf
-  - DOMAIN-SUFFIX,onyra.uk #onyra cf 推流
-  - DOMAIN-SUFFIX,aliz.work #hka
-  - DOMAIN-SUFFIX,123456789.lol #cinetrail cf
-  - DOMAIN-SUFFIX,pornemby.com
-  - DOMAIN-SUFFIX,misty.cx #misty
-  - DOMAIN-SUFFIX,saturdayvideo.top #saturday
-#纸片人
-  - DOMAIN-SUFFIX,embyplus.org #cf前端
-  - DOMAIN-SUFFIX,9521732.xyz
-#paul
-  - DOMAIN-SUFFIX,imetyou.top #cf
-#pilipili
-  - DOMAIN-SUFFIX,pilipiliultra.com
-#zdz
-  - DOMAIN,pub1.term.wtf #cf
-  - DOMAIN,pub2.term.wtf
-  - DOMAIN,pub3.term.wtf
-#cc
-  - DOMAIN-SUFFIX,coemn.com #龟壳前端
-  - DOMAIN-SUFFIX,embycc.link #cf前端
-  - DOMAIN-SUFFIX,carryz.net #龟壳推流
-#embyapp
-#  - PROCESS-NAME,hills_desktop.exe
-#  - PROCESS-NAME,hills.exe
-#  - PROCESS-NAME,Emby.Theater.exe
-#  - PROCESS-NAME,tsukimi.exe
-#  - PROCESS-NAME,com.hush.yamby
-#  - PROCESS-NAME,com.mountains.hills
-#  - PROCESS-NAME,work.aliz.femor
-#  - PROCESS-NAME,com.mb.android
-#  - PROCESS-NAME,com.themby.themby
 #YouTube
   - DOMAIN-SUFFIX,ggpht.cn
   - DOMAIN-SUFFIX,ggpht.com
