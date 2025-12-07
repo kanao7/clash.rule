@@ -1,13 +1,13 @@
 payload:
-  - DOMAIN-SUFFIX,gh-proxy.com
-#  - DOMAIN-SUFFIX,zeabur.app
-#  - DOMAIN-SUFFIX,kanao.dpdns.org
-  - DOMAIN,www.bing.com
-  - DOMAIN-SUFFIX,mikanime.tv
   - DOMAIN-SUFFIX,dandanplay.net
+  - DOMAIN-SUFFIX,gh-proxy.com
   - DOMAIN-SUFFIX,jxlibrary.net
-  - DOMAIN,www.gstatic.com
-  - DOMAIN,yxvm.com
+  - DOMAIN-SUFFIX,mikanime.tv
+  - DOMAIN-SUFFIX,www.gstatic.com
+  - DOMAIN-SUFFIX,yxvm.com
+  - DOMAIN,www.bing.com
+#  - DOMAIN-SUFFIX,kanao.dpdns.org
+#  - DOMAIN-SUFFIX,zeabur.app
 #Emby_Direct
   - DOMAIN,jp.younoyes.com
   - DOMAIN,us.younoyes.com

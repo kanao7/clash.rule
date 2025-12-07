@@ -1,41 +1,41 @@
 payload:
 #Emby
-  - DOMAIN-SUFFIX,okemby.org #okemby cf
-  - DOMAIN-SUFFIX,emos.lol #emos cf
-  - DOMAIN-SUFFIX,biliblili.uk #laoda
+  - DOMAIN-SUFFIX,123456789.lol #cinetrail cf
   - DOMAIN-SUFFIX,28.al #qidian
-  - DOMAIN-SUFFIX,younoyes.com #youno
-#  - DOMAIN-SUFFIX,cn2gias.uk #sntp
   - DOMAIN-SUFFIX,3767483.xyz #zox
-#  - DOMAIN-SUFFIX,emby.nebula-media.org #nebula cf
-  - DOMAIN-SUFFIX,bangumi.ca #nya cf
-  - DOMAIN-SUFFIX,nijigem.by #nijigen cf
-  - DOMAIN-SUFFIX,tanhuatv.site #tanhua cf
-  - DOMAIN-SUFFIX,violet.run #violet cf
   - DOMAIN-SUFFIX,5203166.xyz ##violet de netcup
+  - DOMAIN-SUFFIX,aliz.work #hka
+  - DOMAIN-SUFFIX,bangumi.ca #nya cf
+  - DOMAIN-SUFFIX,biliblili.uk #laoda
+  - DOMAIN-SUFFIX,emos.lol #emos cf
+  - DOMAIN-SUFFIX,imetyou.top #paul cf
+  - DOMAIN-SUFFIX,nijigem.by #nijigen cf
+  - DOMAIN-SUFFIX,okemby.org #okemby cf
   - DOMAIN-SUFFIX,onyra.cc #onyra cf
   - DOMAIN-SUFFIX,onyra.uk #onyra cf 推流
-  - DOMAIN-SUFFIX,aliz.work #hka
-  - DOMAIN-SUFFIX,123456789.lol #cinetrail cf
-  - DOMAIN-SUFFIX,pornemby.com
-#  - DOMAIN-SUFFIX,misty.cx #misty
-  - DOMAIN-SUFFIX,saturdayvideo.top #saturday
-#  - DOMAIN-SUFFIX,embyplus.org #纸片人 cf前端
-#  - DOMAIN-SUFFIX,9521732.xyz #纸片人 后端
-  - DOMAIN-SUFFIX,imetyou.top #paul cf
   - DOMAIN-SUFFIX,pilipiliultra.com #pilipili cf
+  - DOMAIN-SUFFIX,pornemby.com
   - DOMAIN-SUFFIX,pub1.term.wtf #zdz cf
+  - DOMAIN-SUFFIX,saturdayvideo.top #saturday
+  - DOMAIN-SUFFIX,tanhuatv.site #tanhua cf
+  - DOMAIN-SUFFIX,violet.run #violet cf
+  - DOMAIN-SUFFIX,younoyes.com #youno
+#  - DOMAIN-SUFFIX,9521732.xyz #纸片人 后端
+#  - DOMAIN-SUFFIX,cn2gias.uk #sntp
+#  - DOMAIN-SUFFIX,emby.nebula-media.org #nebula cf
+#  - DOMAIN-SUFFIX,embyplus.org #纸片人 cf前端
+#  - DOMAIN-SUFFIX,misty.cx #misty
 #cc
   - DOMAIN-SUFFIX,coemn.com #龟壳前端
   - DOMAIN-SUFFIX,embycc.link #cf前端
   - DOMAIN-SUFFIX,carryz.net #龟壳推流
 #embyapp
+#  - PROCESS-NAME,com.hush.yamby
+#  - PROCESS-NAME,com.mb.android
+#  - PROCESS-NAME,com.mountains.hills
+#  - PROCESS-NAME,com.themby.themby
+#  - PROCESS-NAME,Emby.Theater.exe
 #  - PROCESS-NAME,hills_desktop.exe
 #  - PROCESS-NAME,hills.exe
-#  - PROCESS-NAME,Emby.Theater.exe
 #  - PROCESS-NAME,tsukimi.exe
-#  - PROCESS-NAME,com.hush.yamby
-#  - PROCESS-NAME,com.mountains.hills
 #  - PROCESS-NAME,work.aliz.femor
-#  - PROCESS-NAME,com.mb.android
-#  - PROCESS-NAME,com.themby.themby

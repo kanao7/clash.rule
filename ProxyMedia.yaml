@@ -6,12 +6,12 @@ payload:
   - DOMAIN-SUFFIX,embyplus.org #纸片人 cf前端
   - DOMAIN-SUFFIX,9521732.xyz #纸片人 后端
 #Drive
-  - DOMAIN,drive.usercontent.google.com
+  - DOMAIN-SUFFIX,drive.usercontent.google.com
   - DOMAIN-SUFFIX,mega.co.nz
   - DOMAIN-SUFFIX,mega.io
   - DOMAIN-SUFFIX,mega.nz
+  - DOMAIN-SUFFIX,rargb.to
   - DOMAIN-SUFFIX,sharepoint.com
-  - DOMAIN,rargb.to
 #YouTube
   - DOMAIN-SUFFIX,ggpht.cn
   - DOMAIN-SUFFIX,ggpht.com
