@@ -5,7 +5,7 @@ payload:
   - DOMAIN-SUFFIX,bilinovel.com
   - DOMAIN-SUFFIX,dash.yfjc.xyz
   - DOMAIN-SUFFIX,happymh.com
-#  - DOMAIN-SUFFIX,kanao.dpdns.org
+  - DOMAIN-SUFFIX,kanao.dpdns.org
   - DOMAIN-SUFFIX,linovelib.com
   - DOMAIN-SUFFIX,machbbs.com
   - DOMAIN-SUFFIX,manhuagui.com

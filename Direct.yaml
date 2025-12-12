@@ -6,7 +6,7 @@ payload:
   - DOMAIN-SUFFIX,www.gstatic.com
   - DOMAIN-SUFFIX,yxvm.com
   - DOMAIN,www.bing.com
-  - DOMAIN-SUFFIX,kanao.dpdns.org
+#  - DOMAIN-SUFFIX,kanao.dpdns.org
 #  - DOMAIN-SUFFIX,zeabur.app
 #Emby_Direct
   - DOMAIN,jp.younoyes.com
