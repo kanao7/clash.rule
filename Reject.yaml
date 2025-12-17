@@ -82,6 +82,7 @@ payload:
   - DOMAIN-REGEX,^tnc[a-z0-9.-]*\.zijieapi\.com$
 # PCDN
   - DOMAIN-SUFFIX,bsccdn.net
+  - DOMAIN-SUFFIX,edge.mountaintoys.cn
   - DOMAIN-SUFFIX,gjfzpt.cn
   - DOMAIN-SUFFIX,jomodns.cn
   - DOMAIN-SUFFIX,kuiniuca.com
