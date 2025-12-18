@@ -1,6 +1,6 @@
 payload:
 #Emby
-  - DOMAIN-SUFFIX,emby.nebula-media.org #nebula cf
+  - DOMAIN-SUFFIX,nebula-media.org #nebula cf
   - DOMAIN-SUFFIX,cn2gias.uk #sntp
   - DOMAIN-SUFFIX,misty.cx #misty
   - DOMAIN-SUFFIX,embyplus.org #纸片人 cf前端
