@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,yxvm.com
   - DOMAIN,www.bing.com
   - DOMAIN,dm.kanao.dpdns.org
+  - DOMAIN-SUFFIX,ap-northeast-1.clawcloudrun.com
 #  - DOMAIN-SUFFIX,zeabur.app
 #Emby_Direct
   - DOMAIN,jp.younoyes.com
