@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,saturdayvideo.top #saturday
   - DOMAIN-SUFFIX,tanhuatv.site #tanhua cf
   - DOMAIN-SUFFIX,violet.run #violet cf
+  - DOMAIN,violetcdn.fufuemby.top #violet cf
   - DOMAIN-SUFFIX,younoyes.com #youno
 #  - DOMAIN-SUFFIX,9521732.xyz #纸片人 后端
 #  - DOMAIN-SUFFIX,cn2gias.uk #sntp

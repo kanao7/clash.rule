@@ -15,7 +15,9 @@ payload:
 #Emby_Direct
   - DOMAIN,jp.younoyes.com
   - DOMAIN,us.younoyes.com
-  - DOMAIN-SUFFIX,fufuemby.top #volit cdn
+  - DOMAIN,cmcdn.fufuemby.top #volit cdn
+  - DOMAIN,ctcdn.fufuemby.top
+  - DOMAIN,cucdn.fufuemby.top
   - IP-CIDR,46.3.109.178/32,no-resolve #volit yxvm hk
   - DOMAIN,ap-cn01.emby.bangumi.ca #nya us
   - DOMAIN,ap-cn02.emby.bangumi.ca #nys jp
