@@ -27,6 +27,7 @@ payload:
 #  - DOMAIN-SUFFIX,embyplus.org #纸片人 cf前端
 #  - DOMAIN-SUFFIX,misty.cx #misty
 #cc
+  - DOMAIN-SUFFIX,cc.mnyvc.xyz
   - DOMAIN-SUFFIX,coemn.com #龟壳前端
   - DOMAIN-SUFFIX,embycc.link #cf前端
   - DOMAIN-SUFFIX,carryz.net #龟壳推流
